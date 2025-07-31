@@ -16,13 +16,13 @@ author_profile: true
 
 - Feng, L., Sun, J., El-Kassaby, Y.A., **Yang, X.**, Tian, X., Wang, T.* (2022). Predicting potential habitat of a plant species with small populations under climate change: *Ostrya rehderiana*. *Forests*, 13: 129.
 
-- Zhao, W., Li, T., Cui, Y., Huang, J., **Yang, X.***, Li, S.* (2021). Demographic performance of a pioneer tree species during ecological restoration in the soil erosion area of southeastern China. *Global Ecology & Conservation*, 32, e01936.
+- Zhao, W., Li, T., Cui, Y., Huang, J., **Yang, X.**<sup>*</sup>, Li, S.<sup>*</sup> (2021). Demographic performance of a pioneer tree species during ecological restoration in the soil erosion area of southeastern China. *Global Ecology & Conservation*, 32, e01936.
 
-- Wang, X., Li, S.*, Huang, S., Cui, Y., Fu, H., Li, T., Zhao, W., **Yang, X.** \* (2021). *Pinus massoniana* population dynamics: Driving species diversity during the pioneer stage of ecological restoration. *Global Ecology and Conservation*, 27, e01593.
+- Wang, X., Li, S.*, Huang, S., Cui, Y., Fu, H., Li, T., Zhao, W., **Yang, X.**<sup>*</sup> (2021). *Pinus massoniana* population dynamics: Driving species diversity during the pioneer stage of ecological restoration. *Global Ecology and Conservation*, 27, e01593.
 
 - Hu, M., Peñuelas, J., Sardans, J. **Yang, X.**, Tong C., Zou S.*, Cao W,*. (2020). Shifts in Microbial Biomass C/N/P Stoichiometry and Bacterial Community Composition in Subtropical Estuarine Tidal Marshes Along a Gradient of Freshwater–Oligohaline Water. *Ecosystems*, 23, 1265–1280.
 
-- Hu, M.\*, Sardans J,. **Yang, X.**, Peñuelas, J., Tong C,*. (2020). Patterns and environmental drivers of greenhouse gas fluxes in the coastal wetlands of China: A systematic review and synthesis. *Environmental Research*, 186:109576.
+- Hu, M.<sup>*</sup>, Sardans J,. **Yang, X.**, Peñuelas, J., Tong C,<sup>*</sup>. (2020). Patterns and environmental drivers of greenhouse gas fluxes in the coastal wetlands of China: A systematic review and synthesis. *Environmental Research*, 186:109576.
 
 - **Yang, X.**, Li, S., Shen, B., Wu, Y., Sun, S., Liu, R., Zha, R., Li, S.* (2018). Demographic strategies of a dominant tree species in response to logging in a degraded subtropical forest in Southeast China. *Annals of Forest Science*, 75, 84.
 
