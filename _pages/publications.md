@@ -16,9 +16,9 @@ author_profile: true
 
 - Feng, L., Sun, J., El-Kassaby, Y.A., **Yang, X.**, Tian, X., Wang, T.\* (2022). Predicting potential habitat of a plant species with small populations under climate change: *Ostrya rehderiana*. _Forests_, 13: 129. [Link](https://www.mdpi.com/1999-4907/13/1/129){:target="_blank"} 
 
-- Zhao, W., Li, T., Cui, Y., Huang, J., **Yang, X.**\*, Li, S.* (2021). Demographic performance of a pioneer tree species during ecological restoration in the soil erosion area of southeastern China. _Global Ecology & Conservation_, 32, e01936. [Link](https://www.sciencedirect.com/science/article/pii/S2351989421004868){:target="_blank"} 
+- Zhao, W., Li, T., Cui, Y., Huang, J., **Yang, X.**\*, Li, S.\* (2021). Demographic performance of a pioneer tree species during ecological restoration in the soil erosion area of southeastern China. _Global Ecology & Conservation_, 32, e01936. [Link](https://www.sciencedirect.com/science/article/pii/S2351989421004868){:target="_blank"} 
 
-- Wang, X., Li, S.*, Huang, S., Cui, Y., Fu, H., Li, T., Zhao, W., **Yang, X.**\* (2021). *Pinus massoniana* population dynamics: Driving species diversity during the pioneer stage of ecological restoration. _Global Ecology and Conservation_, 27, e01593. [Link](https://www.sciencedirect.com/science/article/pii/S2351989421001438){:target="_blank"} 
+- Wang, X., Li, S.\*, Huang, S., Cui, Y., Fu, H., Li, T., Zhao, W., **Yang, X.** (2021). *Pinus massoniana* population dynamics: Driving species diversity during the pioneer stage of ecological restoration. _Global Ecology and Conservation_, 27, e01593. [Link](https://www.sciencedirect.com/science/article/pii/S2351989421001438){:target="_blank"} 
 
 - Hu, M., Peñuelas, J., Sardans, J. **Yang, X.**, Tong C., Zou S.\*, Cao W,\* (2020). Shifts in Microbial Biomass C/N/P Stoichiometry and Bacterial Community Composition in Subtropical Estuarine Tidal Marshes Along a Gradient of Freshwater–Oligohaline Water. _Ecosystems_, 23, 1265–1280. [Link](https://link.springer.com/article/10.1007/s10021-019-00468-5){:target="_blank"} 
 
