@@ -36,7 +36,7 @@ author_profile: true
 - **The Chinese Government Scholarship** (2020)
 
 # 👀 Manuscript Review:
-Global Ecology and Biogeography, Journal of Ecology, Biological Conservation, Global Change Biology, Ecology and Evolution
+Biological Conservation, Ecology and Evolution, Global Ecology and Biogeography, Global Change Biology, Journal of Ecology
 
 # 💬 Conferences and Workshops
 - **Presenter**, Annual Meeting of the Ecological Society of America, August 2024, Long Beach, USA  
