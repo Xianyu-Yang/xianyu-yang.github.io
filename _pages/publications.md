@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 # 📝 Publications 
-- **Yang, X.**, Angert, A.L., Zuidema, P.A., Santos, S.G., Lyu, S., Lalasia, B.M., Zhang, J.* (2025).  
+- _Yang, X.*_, Angert, A.L., Zuidema, P.A., Santos, S.G., Lyu, S., Lalasia, B.M., Zhang, J.* (2025).  
   **Coexistence of tropical forest tree species along the demographic buffering spectrum.**  
   *Global Change Biology*, 31(6): e70310.
 
