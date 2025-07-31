@@ -68,23 +68,23 @@ Forest Dynamics, Species Diversity, Species Range Limits, Ecological Restoration
 
 # 📖 Educations and Training
 - **Postdoctoral Researcher** (2024.01 – present)  
-  Advisor: [Dr. Lanasia Bialic-Murphy](#) and [Thomas Crowther](#)  
+  Advisor: [Dr. Lanasia Bialic-Murphy](https://crowtherlab.com/dr-lalasia-bialic-murphy/) and [Thomas Crowther](https://crowtherlab.com/about-tom-crowther/)  
   Institute of Integrative Biology, ETH Zürich, Zürich, Switzerland
 
 - **Visiting Scholar** (2023.07 – 2023.10)  
-  Advisor: [Dr. Hans Cornelissen](#)  
+  Advisor: [Dr. Hans Cornelissen](https://research.vu.nl/en/persons/hans-cornelissen)  
   Systems Ecology, Vrije Universiteit Amsterdam, Netherlands
 
 - **Ph.D. in Ecology** (2018.09 – 2023.07)  
-  Supervisor: [Dr. Jian Zhang](#)  
+  Supervisor: [Dr. Jian Zhang](https://ecoinfor.github.io/index.html)  
   School of Ecological and Environmental Sciences, East China Normal University, China
 
 - **Visiting Scholar** (2021.03 – 2022.03)  
-  Supervisor: [Dr. Amy Angert](#)  
+  Supervisor: [Dr. Amy Angert](https://angert.github.io/people.html)  
   Biodiversity Research Center, University of British Columbia, Canada
 
 - **M.Sc. in Physical Geography** (2015.09 – 2018.07)  
-  Supervisor: [Dr. Shouzhong Li](#)  
+  Supervisor: [Dr. Shouzhong Li](https://geo.fjnu.edu.cn/dd/84/c4964a187780/page.htm)  
   School of Geographical Science, Fujian Normal University, China
 
 - **B.Sc. in Geography Science** (2011.09 – 2015.07)  
