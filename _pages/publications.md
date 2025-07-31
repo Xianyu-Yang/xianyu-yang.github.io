@@ -8,7 +8,7 @@ author_profile: true
 # 📝 Publications 
 - **Yang, X.**, Angert, A.L., Zuidema, P.A., Santos, S.G., Lyu, S., Lalasia, B.M., Zhang, J.* (2025). Coexistence of tropical forest tree species along the demographic buffering spectrum. *Global Change Biology*, 31(6): e70310.
 
-- Liu, A., Liu, R., Lei, F., …, Li, S.*, **Yang, X.** (2025). Demographic performance and climate change response of a pioneer tree species (*Pinus massoniana*) during ecological restoration in subtropical China. *Journal of Forestry Research*, 36, 34.
+- Liu, A., Liu, R., Lei, F., …, Li, S.\*, **Yang, X.** (2025). Demographic performance and climate change response of a pioneer tree species (*Pinus massoniana*) during ecological restoration in subtropical China. *Journal of Forestry Research*, 36, 34.
 
 - Wang, J., **Yang, X.**\*, Santos, S.G., Ning, H., Li, T., Zhao, W., Si, X., Lu, S., Li, S.* (2023). Flexible demographic strategies promote the population persistence of a pioneer conifer tree (*Pinus massoniana*) in ecological restoration. *Forest Ecology and Management*, 529, 120727.
 
