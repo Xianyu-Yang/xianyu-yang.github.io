@@ -22,8 +22,8 @@ author_profile: true
 
 - Hu, M., Peñuelas, J., Sardans, J. **Yang, X.**, Tong C., Zou S.*, Cao W,* (2020). Shifts in Microbial Biomass C/N/P Stoichiometry and Bacterial Community Composition in Subtropical Estuarine Tidal Marshes Along a Gradient of Freshwater–Oligohaline Water. _Ecosystems_, 23, 1265–1280.
 
-- Hu, M.*, Sardans J,. **Yang, X.**, Peñuelas, J., Tong C,_*_ (2020). Patterns and environmental drivers of greenhouse gas fluxes in the coastal wetlands of China: A systematic review and synthesis. _Environmental Research_, 186:109576.
+- Hu, M., Sardans J,. **Yang, X.**, Peñuelas, J., Tong C,* (2020). Patterns and environmental drivers of greenhouse gas fluxes in the coastal wetlands of China: A systematic review and synthesis. _Environmental Research_, 186:109576.
 
 - **Yang, X.**, Li, S., Shen, B., Wu, Y., Sun, S., Liu, R., Zha, R., Li, S.* (2018). Demographic strategies of a dominant tree species in response to logging in a degraded subtropical forest in Southeast China. _Annals of Forest Science_, 75, 84.
 
-- **Yang, X.**, Li, S._*_, Song, T., Wang, C., Liu, C., Wu, Y., Ning, Q., Jiang, L. (2018). Population dynamics of *Pinus massoniana* in the logged forestland of Changting’s eroded and degraded region. _Acta Ecologica Sinica_, 38, 3175–3182. (In Chinese)
+- **Yang, X.**, Li, S.*, Song, T., Wang, C., Liu, C., Wu, Y., Ning, Q., Jiang, L. (2018). Population dynamics of *Pinus massoniana* in the logged forestland of Changting’s eroded and degraded region. _Acta Ecologica Sinica_, 38, 3175–3182. (In Chinese)
