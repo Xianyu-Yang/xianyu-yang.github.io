@@ -90,6 +90,9 @@ Forest Dynamics, Species Diversity, Species Range Limits, Ecological Restoration
 - **B.Sc. in Geography Science** (2011.09 – 2015.07)  
   School of Geographical Science, Chizhou University, China
 
+# 👀 Manuscript Review:
+Global Ecology and Biogeography, Journal of Ecology, Biological Conservation, Global Change Biology, Ecology and Evolution
+
 # 💬 Conferences and Workshops
 - **Presenter**, Annual Meeting of the Ecological Society of America, August 2024, Long Beach, USA  
 - **Presenter**, Vrije Universiteit Amsterdam, July 2024, Amsterdam, Netherlands  
