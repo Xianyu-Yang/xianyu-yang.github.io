@@ -22,7 +22,7 @@ author_profile: true
 
 - Hu, M., Peñuelas, J., Sardans, J. **Yang, X.**, Tong C., Zou S.*, Cao W,*. (2020). Shifts in Microbial Biomass C/N/P Stoichiometry and Bacterial Community Composition in Subtropical Estuarine Tidal Marshes Along a Gradient of Freshwater–Oligohaline Water. *Ecosystems*, 23, 1265–1280.
 
-- Hu, M.*, Sardans J,.  **Yang, X.**, Peñuelas, J., Tong C,*. (2020). Patterns and environmental drivers of greenhouse gas fluxes in the coastal wetlands of China: A systematic review and synthesis. *Environmental Research*, 186:109576.
+- Hu, M.\*, Sardans J,. **Yang, X.**, Peñuelas, J., Tong C,*. (2020). Patterns and environmental drivers of greenhouse gas fluxes in the coastal wetlands of China: A systematic review and synthesis. *Environmental Research*, 186:109576.
 
 - **Yang, X.**, Li, S., Shen, B., Wu, Y., Sun, S., Liu, R., Zha, R., Li, S.* (2018). Demographic strategies of a dominant tree species in response to logging in a degraded subtropical forest in Southeast China. *Annals of Forest Science*, 75, 84.
 
