@@ -33,7 +33,6 @@ author_profile: true
 - **Excellent Doctoral Dissertation Award**, East China Normal University (2023)
 - **Excellent Poster Award**, The 14th National Conference on Biodiversity Science and Conservation (2022)
 - **Best Student Paper Award**, The Sino-Ecologists Association Overseas (2022)
-- **The Chinese Government Scholarship** (2020)
 
 # 👀 Manuscript Review:
 Biological Conservation, Ecology and Evolution, Global Ecology and Biogeography, Global Change Biology, Journal of Ecology
