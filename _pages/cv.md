@@ -42,7 +42,7 @@ Biological Conservation, Ecology and Evolution, Global Ecology and Biogeography,
 - **Presenter**, Vrije Universiteit Amsterdam, July 2024, Amsterdam, Netherlands  
 - **Presenter and Poster**, The 14th National Conference on Biodiversity Science and Conservation, December 2022, Shanghai, China  
 - **Participant**, The 10th Biennial Conference of the International Biogeography Society, June 2022, Vancouver, Canada  
-- **Presenter**, Seminar on Theory and Practice of Species Interactions, October 2024, Nanchang, China  
+- **Presenter**, Seminar on Theory and Practice of Species Interactions, October 2020, Nanchang, China  
 - **Participant**, The Workshop of Integral Projection Models, January 2019, Xishuangbanna, China  
 - **Participant**, The 2nd Summer School on Biodiversity Research Methods: Advances and Frontiers, September 2018, Shanghai, China  
 - **Poster**, The 13th National Conference on Biodiversity Science and Conservation, August 2018, Inner Mongolia, China  
