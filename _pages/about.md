@@ -29,14 +29,50 @@ Forest Dynamics, Species Diversity, Species Range Limits, Ecological Restoration
     <img src="/images/life/Zurich-lake.jpg" alt="Zurich lake" loading="lazy">
     <figcaption>Zurich lake</figcaption>
   </figure>
+  <figure>
+    <img src="/images/life/hiking1.jpg" alt="Mountain hike" loading="lazy">
+    <figcaption>Oeschinen Lake</figcaption>
+  </figure>
+  <figure>
+    <img src="/images/life/hiking2.jpg" alt="Winter ski" loading="lazy">
+    <figcaption>Grindelwald</figcaption>
+  </figure>
+    <figure>
+    <img src="/images/life/hiking2.jpg" alt="Winter ski" loading="lazy">
+    <figcaption>Spize</figcaption>
+  </figure>
 </div>
 
 <style>
-/* ultra-simple responsive grid */
-.life-grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(220px,1fr)); gap:12px; }
-.life-grid figure { margin:0; }
-.life-grid img { width:100%; height:220px; object-fit:cover; border-radius:12px; }
-.life-grid figcaption { text-align:center; font-size:0.9rem; opacity:0.75; margin-top:6px; }
+.life-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 15px;
+}
+
+.life-grid figure {
+  margin: 0;
+  overflow: hidden;
+  border-radius: 12px;
+}
+
+.life-grid img {
+  width: 100%;
+  height: 300px;          /* 调整等高卡片的高度 */
+  object-fit: cover;      /* 保证整齐布局，轻微裁切 */
+  transition: transform 0.3s ease;
+}
+
+.life-grid img:hover {
+  transform: scale(1.05); /* 鼠标悬停时放大一点 */
+}
+
+.life-grid figcaption {
+  text-align: center;
+  font-size: 0.9rem;
+  opacity: 0.75;
+  margin-top: 6px;
+}
 </style>
 
 
