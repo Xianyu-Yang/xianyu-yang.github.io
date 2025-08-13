@@ -26,3 +26,4 @@ Forest Dynamics, Species Diversity, Species Range Limits, Ecological Restoration
 # 📷 Gallery
 {% include gallery id="life" layout="third" caption="Zürich" show_caption="true" %}
 
+
