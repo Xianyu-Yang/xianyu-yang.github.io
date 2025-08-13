@@ -23,6 +23,6 @@ When I’m off work, I’m usually outdoors, hiking along mountain trails on wee
 # 🔥 Areas of Emphasis
 Forest Dynamics, Species Diversity, Species Range Limits, Ecological Restoration, Tree Demography, Life-History Strategies
 
-# 📷 Snapshots from Life
+# 📷 Gallery
 {% include gallery id="life" layout="first" caption="Zürich" %}
 
