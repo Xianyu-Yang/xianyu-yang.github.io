@@ -38,7 +38,7 @@ Forest Dynamics, Species Diversity, Species Range Limits, Ecological Restoration
     <figcaption>Grindelwald</figcaption>
   </figure>
     <figure>
-    <img src="/images/life/hiking2.jpg" alt="Winter ski" loading="lazy">
+    <img src="/images/life/skii.jpg" alt="Winter ski" loading="lazy">
     <figcaption>Spize</figcaption>
   </figure>
 </div>
@@ -46,25 +46,21 @@ Forest Dynamics, Species Diversity, Species Range Limits, Ecological Restoration
 <style>
 .life-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-  gap: 15px;
+  grid-template-columns: repeat(2, 1fr); /* 两列 */
+  gap: 15px; /* 图片间距 */
 }
 
 .life-grid figure {
   margin: 0;
+  border-radius: 10px;
   overflow: hidden;
-  border-radius: 12px;
 }
 
 .life-grid img {
   width: 100%;
-  height: 300px;          /* 调整等高卡片的高度 */
-  object-fit: cover;      /* 保证整齐布局，轻微裁切 */
-  transition: transform 0.3s ease;
-}
-
-.life-grid img:hover {
-  transform: scale(1.05); /* 鼠标悬停时放大一点 */
+  height: auto; /* 等比例缩放 */
+  display: block;
+  border-radius: 10px;
 }
 
 .life-grid figcaption {
@@ -74,5 +70,4 @@ Forest Dynamics, Species Diversity, Species Range Limits, Ecological Restoration
   margin-top: 6px;
 }
 </style>
-
 
