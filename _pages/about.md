@@ -27,19 +27,15 @@ Forest Dynamics, Species Diversity, Species Range Limits, Ecological Restoration
 <div class="life-grid">
   <figure>
     <img src="/images/life/Zurich-lake.jpg" alt="Zurich lake" loading="lazy">
-    <figcaption>Zurich lake</figcaption>
   </figure>
   <figure>
     <img src="/images/life/hiking1.jpg" alt="Mountain hike" loading="lazy">
-    <figcaption>Oeschinen Lake</figcaption>
   </figure>
   <figure>
     <img src="/images/life/hiking2.jpg" alt="Winter ski" loading="lazy">
-    <figcaption>Grindelwald</figcaption>
   </figure>
     <figure>
     <img src="/images/life/skii.jpg" alt="Winter ski" loading="lazy">
-    <figcaption>Spize</figcaption>
   </figure>
 </div>
 
