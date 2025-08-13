@@ -24,5 +24,21 @@ When I’m off work, I’m usually outdoors, hiking along mountain trails on wee
 Forest Dynamics, Species Diversity, Species Range Limits, Ecological Restoration, Tree Demography, Life history Theory
 
 # 📷 Gallery
+## 📸 Snapshots from Life
+
+<div class="life-grid">
+  <figure>
+    <img src="/images/life/Zurich-lake.jpg" alt="Zurich lake" loading="lazy">
+    <figcaption>Zurich lake</figcaption>
+  </figure>
+</div>
+
+<style>
+/* ultra-simple responsive grid */
+.life-grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(220px,1fr)); gap:12px; }
+.life-grid figure { margin:0; }
+.life-grid img { width:100%; height:220px; object-fit:cover; border-radius:12px; }
+.life-grid figcaption { text-align:center; font-size:0.9rem; opacity:0.75; margin-top:6px; }
+</style>
 
 
