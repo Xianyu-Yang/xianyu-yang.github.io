@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "CV"
-permalink: /cv/
+title: "Gallery"
+permalink: /gallery/
 author_profile: true
 ---
 
