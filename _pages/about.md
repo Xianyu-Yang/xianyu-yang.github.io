@@ -21,7 +21,7 @@ Hi! I’m a postdoc at **ETH Zürich** curious about everything that makes fores
 When I’m off work, I’m usually outdoors, hiking along mountain trails on weekends, swimming in crystal-clear alpine lakes during the summer, or skiing through snowy landscapes in the winter.  
 
 # 🔥 Areas of Emphasis
-Forest Dynamics, Species Diversity, Species Range Limits, Ecological Restoration, Tree Demography
+Forest Dynamics, Species Diversity, Species Range Limits, Ecological Restoration, Tree Demography, Life history Theory
 
 # 📷 Gallery
 
