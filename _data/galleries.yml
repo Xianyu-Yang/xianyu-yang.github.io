@@ -1,5 +1,4 @@
 life:
-  - image_path: /images/life/Zürich lake.jpg
-    alt: Zürich lake
+  - image_path: /images/life/zurich-lake.jpg
+    alt: Zurich lake
     title: Zürich
-
