@@ -24,6 +24,5 @@ When I’m off work, I’m usually outdoors, hiking along mountain trails on wee
 Forest Dynamics, Species Diversity, Species Range Limits, Ecological Restoration, Tree Demography
 
 # 📷 Gallery
-{% include gallery id="life" layout="third" caption="Zurich" show_caption="true" %}
 
 
