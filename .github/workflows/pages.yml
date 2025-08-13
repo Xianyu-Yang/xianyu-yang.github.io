@@ -1,41 +1,26 @@
 name: Deploy Jekyll with GitHub Pages
-
 on:
-  push:
-    branches: ["main"]
+  push: { branches: ["main"] }
   workflow_dispatch:
-
 permissions:
   contents: read
   pages: write
   id-token: write
-
 concurrency:
   group: "pages"
   cancel-in-progress: true
-
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Setup Pages
-        uses: actions/configure-pages@v5
-
-      # 用官方 jekyll 构建 action（支持 github-pages 依赖、remote_theme、plugins）
-      - name: Build with Jekyll
-        uses: actions/jekyll-build-pages@v1
+      - uses: actions/checkout@v4
+      - uses: actions/configure-pages@v5
+      - uses: actions/jekyll-build-pages@v1
         with:
           source: ./
           destination: ./_site
-
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: ./_site
-
+      - uses: actions/upload-pages-artifact@v3
+        with: { path: ./_site }
   deploy:
     needs: build
     runs-on: ubuntu-latest
@@ -43,6 +28,5 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
+      - id: deployment
         uses: actions/deploy-pages@v4
