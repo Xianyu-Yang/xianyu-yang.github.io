@@ -26,4 +26,4 @@ Forest Dynamics, Species Diversity, Species Range Limits, Ecological Restoration
 # 📢 News
 2025-09 I will make an oral presentation in 10th Evolutionary Demography Conference, Pembroke College, Oxford
 
-2025-08 Delighted to share that I just been selected to join the Junior Editorial Board of Forestry Research] (Q1; Impact Factor 5.0; ranked 4th in the Forestry category).
+2025-08 Delighted to share that I have been selected to join the Junior Editorial Board of Forestry Research] (Q1; Impact Factor 5.0; ranked 4th in the Forestry category).
