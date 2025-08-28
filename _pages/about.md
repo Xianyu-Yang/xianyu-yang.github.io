@@ -24,5 +24,6 @@ When I’m off work, I’m usually outdoors, hiking along mountain trails on wee
 Forest Dynamics, Species Diversity, Species Range Limits, Ecological Restoration, Tree Demography, Life history Theory
 
 # 📢 News
-2025-09 I will make an oral presentation in 10th Evolutionary Demography Conference, Pembroke College, Oxford
-2025-08 Delighted to share that I just been selected to join the Junior Editorial Board of Forestry Research (Q1; Impact Factor 5.0; ranked 4th in the Forestry category).
+2025-09 I will make an oral presentation in [10th Evolutionary Demography Conference, Pembroke College, Oxford]([https://crowtherlab.com/dr-lalasia-bialic-murphy/](https://evodemo2025.weebly.com/#:~:text=10th%20Evolutionary%20Demography%20Conference&text=The%20local%20organising%20committee%20welcomes,just%20turned%20400%20years%20old.)){:target="_blank"}
+
+2025-08 Delighted to share that I just been selected to join the Junior Editorial Board of [Forestry Research] (https://www.maxapress.com/forres)){:target="_blank"} (Q1; Impact Factor 5.0; ranked 4th in the Forestry category).
