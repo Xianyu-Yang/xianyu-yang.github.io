@@ -7,6 +7,8 @@ author_profile: true
 
 # 📝 Working papers
 - **Yang, X.**\*, ..., Bialic-Murphy L. Fundamental shifts in tree growth and longevity across climate gradients. (in prepare)
+
+- - **Yang, X.**\*, ..., Bialic-Murphy L. Beyond the fast-slow continuum: A multidimensional life-history framework for trees. (in prepare)
  
 -	**Yang, X.**\*, ..., Bialic-Murphy L. Decadal transient population dynamics reveal the shifting importance of fecundity and survival in a logged subtropical forest. (Under review in _Journal of Plant Ecology_)
 
