@@ -7,23 +7,23 @@ author_profile: true
 
 # 📖 Educations and Training
 - **Postdoctoral Researcher** (2024.01 – present)  
-  Advisor: [Dr. Lanasia Bialic-Murphy](https://crowtherlab.com/dr-lalasia-bialic-murphy/){:target="_blank"} and [Dr. Thomas Crowther](https://crowtherlab.com/about-tom-crowther/){:target="_blank"}  
+  Advisor: [Dr. Lanasia Bialic-Murphy](https://crowtherlab.com/dr-lalasia-bialic-murphy/){:target="_blank"} and [Prof. Thomas Crowther](https://crowtherlab.com/about-tom-crowther/){:target="_blank"}  
   Institute of Integrative Biology, ETH Zürich, Zürich, Switzerland
 
 - **Visiting Scholar** (2023.07 – 2023.10)  
-  Advisor: [Dr. Hans Cornelissen](https://research.vu.nl/en/persons/hans-cornelissen){:target="_blank"}  
+  Advisor: [Prof. Hans Cornelissen](https://research.vu.nl/en/persons/hans-cornelissen){:target="_blank"}  
   Systems Ecology, Vrije Universiteit Amsterdam, Netherlands
 
 - **Ph.D. in Ecology** (2018.09 – 2023.07)  
-  Supervisor: [Dr. Jian Zhang](https://ecoinfor.github.io/index.html){:target="_blank"}  
+  Supervisor: [Prof. Jian Zhang](https://ecoinfor.github.io/index.html){:target="_blank"}  
   School of Ecological and Environmental Sciences, East China Normal University, China
 
 - **Visiting Scholar** (2021.03 – 2022.03)  
-  Supervisor: [Dr. Amy Angert](https://angert.github.io/people.html){:target="_blank"}  
+  Supervisor: [Prof. Amy Angert](https://angert.github.io/people.html){:target="_blank"}  
   Biodiversity Research Center, University of British Columbia, Canada
 
 - **M.Sc. in Physical Geography** (2015.09 – 2018.07)  
-  Supervisor: [Dr. Shouzhong Li](https://geo.fjnu.edu.cn/dd/84/c4964a187780/page.htm){:target="_blank"}  
+  Supervisor: [Prof. Shouzhong Li](https://geo.fjnu.edu.cn/dd/84/c4964a187780/page.htm){:target="_blank"}  
   School of Geographical Science, Fujian Normal University, China
 
 - **B.Sc. in Geography Science** (2011.09 – 2015.07)  
