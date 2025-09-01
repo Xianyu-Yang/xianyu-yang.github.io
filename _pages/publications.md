@@ -18,7 +18,7 @@ author_profile: true
 
 -	Santos G.\*, **Yang, X.**, Gascoigne S., Compagnoni A., Dias A., Tuljapurkar S., Kajin M., Salguero-Gómez R. Population responses to environmental stochasticity are primarily driven by survival-reproduction trade-offs and mediated by aridity. (under review in _Nature Communications_)
 
--	Haozhi M.\*, Constantin Z., Chi X., **Yang, X.**, Lidong M., Jean-François B., Crowther, T. Decadal transient dynamics of pioneer tree species following logging in degraded subtropical forestland. (under review in _Okios_)
+-	Haozhi M.\*, Constantin Z., Chi X., **Yang, X.**, Lidong M., Jean-François B., Crowther, T. Decadal transient dynamics of pioneer tree species following logging in degraded subtropical forestland.
 
 
 # 📝 Peer-reviewed publications 
