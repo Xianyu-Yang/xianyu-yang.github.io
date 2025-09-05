@@ -20,6 +20,8 @@ author_profile: true
 
 -	Haozhi M.\*, Constantin Z., Chi X., **Yang, X.**, Lidong M., Jean-François B., Crowther, T. Decadal transient dynamics of pioneer tree species following logging in degraded subtropical forestland. (in submission)
 
+- Chen, W., ..., Tian, Z.\*, **Yang, X.**\*, Li, J. Dramatic decline of wild apple population: evidence from long-term monitoring and modelling. (under review in _Global Ecology & Conservation_)
+
 
 # 📝 Peer-reviewed publications 
 - **Yang, X.**, Angert, A.L., Zuidema, P.A., Santos, S.G., Lyu, S., Lalasia, B.M., Zhang, J.\* (2025). Coexistence of tropical forest tree species along the demographic buffering spectrum. _Global Change Biology_, 31(6): e70310. [Link](https://onlinelibrary.wiley.com/doi/10.1111/gcb.70310){:target="_blank"}  
