@@ -14,7 +14,7 @@ author_profile: true
 
 -	Santos G.\*, **Yang, X.**, Gascoigne S., Compagnoni A., Dias A., Tuljapurkar S., Kajin M., Salguero-Gómez R. Population responses to environmental stochasticity are primarily driven by survival-reproduction trade-offs and mediated by aridity. (under review in _Nature Communications_)
 
-- Perkowski, E., ..., **Yang, X.**, Bialic-Murphy L., Kivlin, S.N.\* (2025). The negative effects of an allelopathic invader on native plant photosynthesis intensify as the growth season progresses (under review in _Functional Ecology_)
+- Perkowski, E., ..., **Yang, X.**, Bialic-Murphy L., Kivlin, S.N.\* (2025). The negative effects of an allelopathic invader on native plant photosynthesis intensify as the growth season progresses. (under review in _Functional Ecology_)
 
 -	Bialic-Murphy L.\*, Galen, L.G., Kivlin, S.N., ..., **Yang, X.**,, Kalisz, S., Crowther, T. (2025). Fungal diversity-plant productivity relationships in the Anthropocene. (under review in _Nature Plants_)
 
@@ -28,7 +28,7 @@ author_profile: true
 
 - Wen, N.\*, Crowther, T., Du, Y., ..., **Yang, X.**, Bialic-Murphy, L. (2025). Wilderness quality, habitat connectivity, and the effectiveness of protected areas diminish as human activities intensify. _Conservation Letters_. (Accepted)
 
-- Chen, W., Zhang, Y., Lv, H., Tao, Y., Ding, Y., **Yang, X.**\*, Tian, Z.\*, Li, J. (2025). Dramatic decline of wild apple population: evidence from long-term monitoring and modelling.  _Global Ecology & Conservation_ (Accepted)
+- Chen, W., Zhang, Y., Lv, H., Tao, Y., Ding, Y., **Yang, X.**\*, Tian, Z.\*, Li, J. (2025). Dramatic decline of wild apple population: evidence from long-term monitoring and modelling.  _Global Ecology & Conservation_. (Accepted)
 
 - Liu, A., Liu, R., Lei, F., ..., Li, S.\*, **Yang, X.** (2025). Demographic performance and climate change response of a pioneer tree species (*Pinus massoniana*) during ecological restoration in subtropical China. _Journal of Forestry Research_, 36, 34. [Link](https://link.springer.com/article/10.1007/s11676-025-01831-0){:target="_blank"}  
 
