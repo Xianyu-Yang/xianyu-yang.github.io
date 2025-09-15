@@ -35,8 +35,8 @@ author_profile: true
 - **Best Student Paper Award**, The Sino-Ecologists Association Overseas (2022)
 
 # 🧑‍🏫 Editor board:
-Forestry research (Junior-Editor; 2025-09-01 - Present)
-Journal of Plant Ecology (Junior-Editor; 2025-09-15 - Present)
+- Forestry research (Junior-Editor; 2025-09-01 - Present)
+- Journal of Plant Ecology (Junior-Editor; 2025-09-15 - Present)
 
 # 👀 Manuscript Review:
 Biological Conservation, Ecology and Evolution, Global Ecology and Biogeography, Global Change Biology, Journal of Ecology (2)
