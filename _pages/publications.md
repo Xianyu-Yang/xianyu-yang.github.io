@@ -26,7 +26,7 @@ author_profile: true
 # 📝 Peer-reviewed publications 
 - **Yang, X.**, Angert, A.L., Zuidema, P.A., Santos, S.G., Lyu, S., Bialic-Murphy, L., Zhang, J.\* (2025). Coexistence of tropical forest tree species along the demographic buffering spectrum. _Global Change Biology_, 31(6): e70310. [Link](https://onlinelibrary.wiley.com/doi/10.1111/gcb.70310){:target="_blank"}
 
-- Wen, N.\*, Crowther, T., Du, Y., ..., **Yang, X.**, Bialic-Murphy, L. (2025). Wilderness quality, habitat connectivity, and the effectiveness of protected areas diminish as human activities intensify. _Conservation Letters_. (Accepted)
+- Wen, N.\*, Crowther, T., Du, Y., ..., **Yang, X.**, ..., Bialic-Murphy, L. (2025). Wilderness quality, habitat connectivity, and the effectiveness of protected areas diminish as human activities intensify. _Conservation Letters_. (Accepted)
 
 - Chen, W., Zhang, Y., Lv, H., Tao, Y., Ding, Y., **Yang, X.**\*, Tian, Z.\*, Li, J. (2025). Dramatic decline of wild apple population: evidence from long-term monitoring and modelling.  _Global Ecology & Conservation_. (Accepted)
 
