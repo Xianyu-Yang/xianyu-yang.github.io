@@ -18,7 +18,7 @@ author_profile: true
 
 -	Bialic-Murphy L.\*, Galen, L.G., Kivlin, S.N., ..., **Yang, X.**,, Kalisz, S., Crowther, T. (2025). Fungal diversity-plant productivity relationships in the Anthropocene. (under review in _Nature Plants_)
 
--	Haozhi M.\*, Constantin Z., Chi X., **Yang, X.**, Lidong M., Jean-François B., Crowther, T. Decadal transient dynamics of pioneer tree species following logging in degraded subtropical forestland. (in submission)
+-	Haozhi M.\*, Constantin Z., Chi X., **Yang, X.**, Lidong M., Jean-François B., Crowther, T. Tree species associations along climate gradients across the United States. (in submission)
 
 - Chen, W., ..., Tian, Z.\*, **Yang, X.**\*, Li, J. Dramatic decline of wild apple population: evidence from long-term monitoring and modelling. (under review in _Global Ecology & Conservation_)
 
