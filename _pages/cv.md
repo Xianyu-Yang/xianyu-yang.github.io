@@ -34,8 +34,12 @@ author_profile: true
 - **Excellent Poster Award**, The 14th National Conference on Biodiversity Science and Conservation (2022)
 - **Best Student Paper Award**, The Sino-Ecologists Association Overseas (2022)
 
+# 🧑‍🏫 Editor board:
+Forestry research (Junior-Editor; 2025-09-01 - Present)
+Journal of Plant Ecology (Junior-Editor; 2025-09-15 - Present)
+
 # 👀 Manuscript Review:
-Biological Conservation, Ecology and Evolution, Global Ecology and Biogeography, Global Change Biology, Journal of Ecology
+Biological Conservation, Ecology and Evolution, Global Ecology and Biogeography, Global Change Biology, Journal of Ecology (2)
 
 # 💬 Conferences and Workshops
 - **Presenter**, Annual Meeting of the Ecological Society of America, August 2024, Long Beach, USA  
