@@ -8,6 +8,7 @@ author_profile: true
 # 📖 Educations and Training
 - **Postdoctoral Researcher** (2024.01 – present)  
   Advisor: [Dr. Lanasia Bialic-Murphy](https://crowtherlab.com/dr-lalasia-bialic-murphy/){:target="_blank"}
+  Institute of Integrative Biology, ETH Zürich, Zürich, Switzerland
 
 - **Visiting Scholar** (2023.07 – 2023.10)  
   Advisor: [Prof. Hans Cornelissen](https://research.vu.nl/en/persons/hans-cornelissen){:target="_blank"}  
