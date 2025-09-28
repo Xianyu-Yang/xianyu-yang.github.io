@@ -24,6 +24,4 @@ When I’m off work, I’m usually outdoors, hiking along mountain trails on wee
 Forest Dynamics, Species Diversity, Species Range Limits, Ecological Restoration, Tree Demography, Life history Theory
 
 # 📢 News
-2025-09 I will make an oral presentation in 10th Evolutionary Demography Conference, Pembroke College, Oxford
-
-2025-08 Delighted to share that I have been selected to join the Junior Editorial Board of _Forestry Research_ (Q1; Impact Factor 5.0; ranked 4th in the Forestry category).
+2025-08 Delighted to share that I have been selected to join the Junior Editorial Board of _Journal of Plant Ecology_ and  _Forestry Research_.
