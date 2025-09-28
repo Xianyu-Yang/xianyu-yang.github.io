@@ -42,6 +42,7 @@ author_profile: true
 Biological Conservation, Ecology and Evolution, Global Ecology and Biogeography (2), Global Change Biology, Journal of Ecology (2)
 
 # 💬 Conferences and Workshops
+- **Presenter**, 10th Evolutionary Demography Conference, September 2025, Oxford, UK
 - **Presenter**, Annual Meeting of the Ecological Society of America, August 2024, Long Beach, USA  
 - **Presenter**, Vrije Universiteit Amsterdam, July 2024, Amsterdam, Netherlands  
 - **Presenter and Poster**, The 14th National Conference on Biodiversity Science and Conservation, December 2022, Shanghai, China  
