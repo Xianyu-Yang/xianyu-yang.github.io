@@ -22,9 +22,7 @@ author_profile: true
 
 
 # 📝 Peer-reviewed publications 
-- Wen, N.\*, Crowther, T., Du, Y., ..., **Yang, X.**, ..., Bialic-Murphy, L. (2025). Wilderness quality, habitat connectivity, and the effectiveness of protected areas diminish as human activities intensify. _Conservation Letters_. (Accepted)
-
-----------------------------
+- Wen, N.\*, Crowther, T., Du, Y., ..., **Yang, X.**, ..., Bialic-Murphy, L. (2025). Wilderness quality, habitat connectivity, and the effectiveness of protected areas diminish as human activities intensify. _Conservation Letters_, 18, no. 5: e13149. [Link] (https://conbio.onlinelibrary.wiley.com/doi/10.1111/conl.13149){:target="_blank"}
 
 - Chen, W., Zhang, Y., Lv, H., Tao, Y., Ding, Y., **Yang, X.**\*, Tian, Z.\*, Li, J. (2025). Dramatic decline of wild apple population: evidence from long-term monitoring and modelling.  _Global Ecology & Conservation_, 62, e03861. [Link](https://www.sciencedirect.com/science/article/pii/S2351989425004627?via%3Dihub){:target="_blank"}
   
