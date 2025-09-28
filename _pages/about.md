@@ -24,4 +24,4 @@ When I’m off work, I’m usually outdoors, hiking along mountain trails on wee
 Forest Dynamics, Species Diversity, Species Range Limits, Ecological Restoration, Tree Demography, Life history Theory
 
 # 📢 News
-2025-08 Delighted to share that I have been selected to join the Junior Editorial Board of _Journal of Plant Ecology_ and  _Forestry Research_.
+2025-08 Delighted to share that I have been selected to join the Junior Editorial Board of _Journal of Plant Ecology_ (Q1, if: 3.9) and  _Forestry Research_ (Q1, if: 5.0).
