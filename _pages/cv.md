@@ -7,7 +7,7 @@ author_profile: true
 
 # 📖 Educations and Training
 - **Postdoctoral Researcher** (2024.01 – present)  
-  Advisor: [Dr. Lanasia Bialic-Murphy](https://crowtherlab.com/dr-lalasia-bialic-murphy/){:target="_blank"} and [Prof. Thomas Crowther](https://crowtherlab.com/about-tom-crowther/){:target="_blank"}  
+  Advisor: [Dr. Lanasia Bialic-Murphy](https://crowtherlab.com/dr-lalasia-bialic-murphy/){:target="_blank"}
   Institute of Integrative Biology, ETH Zürich, Zürich, Switzerland
 
 - **Visiting Scholar** (2023.07 – 2023.10)  
@@ -39,7 +39,7 @@ author_profile: true
 - Journal of Plant Ecology (Junior-Editor; 2025-09-15 - Present)
 
 # 👀 Manuscript Review:
-Biological Conservation, Ecology and Evolution, Global Ecology and Biogeography, Global Change Biology, Journal of Ecology (2)
+Biological Conservation, Ecology and Evolution, Global Ecology and Biogeography (2), Global Change Biology, Journal of Ecology (2)
 
 # 💬 Conferences and Workshops
 - **Presenter**, Annual Meeting of the Ecological Society of America, August 2024, Long Beach, USA  
