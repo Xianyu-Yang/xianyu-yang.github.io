@@ -39,7 +39,7 @@ author_profile: true
 - Journal of Plant Ecology (Junior-Editor; 2025-09-15 - Present)
 
 # 👀 Manuscript Review:
-Biological Conservation, Ecology and Evolution, Global Ecology and Biogeography (2), Global Change Biology, Journal of Ecology (2), Proceedings of the Royal Society B: Biological Sciences
+Biological Conservation, Ecology and Evolution, Global Ecology and Biogeography (2), Global Change Biology, Journal of Ecology (2), Proceedings of the Royal Society B: Biological Sciences, Plants
 
 # 💬 Conferences and Workshops
 - **Presenter**, 10th Evolutionary Demography Conference, September 2025, Oxford, UK
