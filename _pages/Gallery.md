@@ -19,6 +19,12 @@ author_profile: true
     <figure>
     <img src="/images/life/skii.jpg" alt="Winter ski" loading="lazy">
   </figure>
+    <figure>
+    <img src="/images/life/St.Mortiz.jpg" alt="St.Mortiz" loading="lazy">
+  </figure>
+   <figure>
+    <img src="/images/life/Aletsch Glacier.jpg" alt="Aletsch Glacier" loading="lazy">
+  </figure>
 </div>
 
 <style>
