@@ -22,9 +22,13 @@ author_profile: true
   Advisor: [Dr. Lalasia Bialic-Murphy](https://crowtherlab.com/dr-lalasia-bialic-murphy/){:target="_blank"}  
   Institute of Integrative Biology, ETH Zürich, Zürich, Switzerland
 
-- **Visiting Scientirst** (2025.11 – present)  
+- **Visiting Scientist** (2025.11 – present)  
   Advisor: [Dr. Lalasia Bialic-Murphy](https://www.wsl.ch/en/staff/bialicla/){:target="_blank"}  
   Swiss Federal Research Institute WSL, Zürich, Switzerland
+
+- **Visiting Scientist** (2025.08 – 2025.09)  
+  Advisor: [Prof. Barnabas Daru](https://profiles.stanford.edu/barnabas-daru){:target="_blank"}  
+  Department of Biology, Stanford University, Palo Alto, USA
 
 - **Visiting Scholar** (2023.07 – 2023.10)  
   Advisor: [Prof. Hans Cornelissen](https://research.vu.nl/en/persons/hans-cornelissen){:target="_blank"}  
