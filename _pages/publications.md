@@ -10,7 +10,7 @@ author_profile: true
 
 - **Yang, X.**\*, ..., Bialic-Murphy L. Beyond the fast-slow continuum: A multidimensional life-history framework for trees. (in preparation)
  
--	**Yang, X.**\*, ..., Bialic-Murphy L. Decadal transient population dynamics reveal the shifting importance of fecundity and survival in a logged subtropical forest. (Under review in _Journal of Plant Ecology_)
+-	**Yang, X.**\*, ..., Bialic-Murphy L. Decadal transient population dynamics reveal the shifting importance of fecundity and survival in a logged subtropical forest. (resubmission to _Journal of Plant Ecology_)
 
 -	Santos G.\*, **Yang, X.**, Gascoigne S., Compagnoni A., Dias A., Tuljapurkar S., Kajin M., Salguero-Gómez R. Population responses to environmental stochasticity are primarily driven by survival-reproduction trade-offs and mediated by aridity. (under review in _Nature Communications_)
 
