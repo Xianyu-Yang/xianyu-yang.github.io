@@ -5,26 +5,10 @@ permalink: /cv/
 author_profile: true
 ---
 
-# 📖 Educations and Training
-- **Visiting Scientirst** (2025.11 – present)  
-  Advisor: [Dr. Lalasia Bialic-Murphy](https://www.wsl.ch/en/staff/bialicla/){:target="_blank"}  
-  Swiss Federal Research Institute WSL, Zürich, Switzerland
-
-- **Postdoctoral Researcher** (2024.01 – present)  
-  Advisor: [Dr. Lalasia Bialic-Murphy](https://crowtherlab.com/dr-lalasia-bialic-murphy/){:target="_blank"}  
-  Institute of Integrative Biology, ETH Zürich, Zürich, Switzerland
-
-- **Visiting Scholar** (2023.07 – 2023.10)  
-  Advisor: [Prof. Hans Cornelissen](https://research.vu.nl/en/persons/hans-cornelissen){:target="_blank"}  
-  Systems Ecology, Vrije Universiteit Amsterdam, Netherlands
-
+# 📖 Educations
 - **Ph.D. in Ecology** (2018.09 – 2023.07)  
   Supervisor: [Prof. Jian Zhang](https://ecoinfor.github.io/index.html){:target="_blank"}  
   School of Ecological and Environmental Sciences, East China Normal University, China
-
-- **Visiting Scholar** (2021.03 – 2022.03)  
-  Supervisor: [Prof. Amy Angert](https://angert.github.io/people.html){:target="_blank"}  
-  Biodiversity Research Center, University of British Columbia, Canada
 
 - **M.Sc. in Physical Geography** (2015.09 – 2018.07)  
   Supervisor: [Prof. Shouzhong Li](https://geo.fjnu.edu.cn/dd/84/c4964a187780/page.htm){:target="_blank"}  
@@ -32,7 +16,24 @@ author_profile: true
 
 - **B.Sc. in Geography Science** (2011.09 – 2015.07)  
   School of Geographical Science, Chizhou University, China
+  
+# 🕮 Training
+- **Postdoctoral Researcher** (2024.01 – present)  
+  Advisor: [Dr. Lalasia Bialic-Murphy](https://crowtherlab.com/dr-lalasia-bialic-murphy/){:target="_blank"}  
+  Institute of Integrative Biology, ETH Zürich, Zürich, Switzerland
 
+- **Visiting Scientirst** (2025.11 – present)  
+  Advisor: [Dr. Lalasia Bialic-Murphy](https://www.wsl.ch/en/staff/bialicla/){:target="_blank"}  
+  Swiss Federal Research Institute WSL, Zürich, Switzerland
+
+- **Visiting Scholar** (2023.07 – 2023.10)  
+  Advisor: [Prof. Hans Cornelissen](https://research.vu.nl/en/persons/hans-cornelissen){:target="_blank"}  
+  Systems Ecology, Vrije Universiteit Amsterdam, Netherlands
+  
+- **Visiting Scholar** (2021.03 – 2022.03)  
+  Supervisor: [Prof. Amy Angert](https://angert.github.io/people.html){:target="_blank"}  
+  Biodiversity Research Center, University of British Columbia, Canada
+  
 # 🎖 Grants and Awards
 - **Excellent Doctoral Dissertation Award**, East China Normal University (2023)
 - **Excellent Poster Award**, The 14th National Conference on Biodiversity Science and Conservation (2022)
