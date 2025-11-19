@@ -26,7 +26,7 @@ author_profile: true
   Advisor: [Dr. Lalasia Bialic-Murphy](https://www.wsl.ch/en/staff/bialicla/){:target="_blank"}  
   Swiss Federal Research Institute WSL, Zürich, Switzerland
 
-- **Visiting Scientist** (2025.08 – 2025.09)  
+- **Visiting Scholar** (2025.08 – 2025.09)  
   Advisor: [Prof. Barnabas Daru](https://profiles.stanford.edu/barnabas-daru){:target="_blank"}  
   Department of Biology, Stanford University, Palo Alto, USA
 
