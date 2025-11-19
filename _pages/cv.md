@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: true
 ---
 
-# 📖 Educations
+# 📖 Education
 - **Ph.D. in Ecology** (2018.09 – 2023.07)  
   Supervisor: [Prof. Jian Zhang](https://ecoinfor.github.io/index.html){:target="_blank"}  
   School of Ecological and Environmental Sciences, East China Normal University, China
