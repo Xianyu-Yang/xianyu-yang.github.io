@@ -17,7 +17,7 @@ author_profile: true
 - **B.Sc. in Geography Science** (2011.09 – 2015.07)  
   School of Geographical Science, Chizhou University, China
   
-# 🕮 Training
+# 🕮 Postdoctoral & Visiting Positions
 - **Postdoctoral Researcher** (2024.01 – present)  
   Advisor: [Dr. Lalasia Bialic-Murphy](https://crowtherlab.com/dr-lalasia-bialic-murphy/){:target="_blank"}  
   Institute of Integrative Biology, ETH Zürich, Zürich, Switzerland
