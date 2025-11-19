@@ -34,7 +34,7 @@ author_profile: true
   Advisor: [Prof. Hans Cornelissen](https://research.vu.nl/en/persons/hans-cornelissen){:target="_blank"}  
   Systems Ecology, Vrije Universiteit Amsterdam, Netherlands
   
-- **Visiting Scholar** (2021.03 – 2022.03)  
+- **Visiting Student** (2021.03 – 2022.03)  
   Supervisor: [Prof. Amy Angert](https://angert.github.io/people.html){:target="_blank"}  
   Biodiversity Research Center, University of British Columbia, Canada
   
