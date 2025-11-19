@@ -6,6 +6,10 @@ author_profile: true
 ---
 
 # 📖 Educations and Training
+- **Visiting Scientirst** (2025.11 – present)  
+  Advisor: [Dr. Lalasia Bialic-Murphy](https://www.wsl.ch/en/staff/bialicla/){:target="_blank"}  
+  Swiss Federal Research Institute WSL, Zürich, Switzerland
+
 - **Postdoctoral Researcher** (2024.01 – present)  
   Advisor: [Dr. Lalasia Bialic-Murphy](https://crowtherlab.com/dr-lalasia-bialic-murphy/){:target="_blank"}  
   Institute of Integrative Biology, ETH Zürich, Zürich, Switzerland
