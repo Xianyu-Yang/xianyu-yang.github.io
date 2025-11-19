@@ -5,19 +5,7 @@ permalink: /cv/
 author_profile: true
 ---
 
-# 📖 Education
-- **Ph.D. in Ecology** (2018.09 – 2023.07)  
-  Supervisor: [Prof. Jian Zhang](https://ecoinfor.github.io/index.html){:target="_blank"}  
-  School of Ecological and Environmental Sciences, East China Normal University, China
-
-- **M.Sc. in Physical Geography** (2015.09 – 2018.07)  
-  Supervisor: [Prof. Shouzhong Li](https://geo.fjnu.edu.cn/dd/84/c4964a187780/page.htm){:target="_blank"}  
-  School of Geographical Science, Fujian Normal University, China
-
-- **B.Sc. in Geography Science** (2011.09 – 2015.07)  
-  School of Geographical Science, Chizhou University, China
-  
-# 🕮 Postdoctoral & Visiting Positions
+# 🕮 Academic / Research Positions
 - **Postdoctoral Researcher** (2024.01 – present)  
   Advisor: [Dr. Lalasia Bialic-Murphy](https://crowtherlab.com/dr-lalasia-bialic-murphy/){:target="_blank"}  
   Institute of Integrative Biology, ETH Zürich, Zürich, Switzerland
@@ -37,6 +25,18 @@ author_profile: true
 - **Visiting Student** (2021.03 – 2022.03)  
   Supervisor: [Prof. Amy Angert](https://angert.github.io/people.html){:target="_blank"}  
   Biodiversity Research Center, University of British Columbia, Canada
+  
+# 📖 Education
+- **Ph.D. in Ecology** (2018.09 – 2023.07)  
+  Supervisor: [Prof. Jian Zhang](https://ecoinfor.github.io/index.html){:target="_blank"}  
+  School of Ecological and Environmental Sciences, East China Normal University, China
+
+- **M.Sc. in Physical Geography** (2015.09 – 2018.07)  
+  Supervisor: [Prof. Shouzhong Li](https://geo.fjnu.edu.cn/dd/84/c4964a187780/page.htm){:target="_blank"}  
+  School of Geographical Science, Fujian Normal University, China
+
+- **B.Sc. in Geography Science** (2011.09 – 2015.07)  
+  School of Geographical Science, Chizhou University, China
   
 # 🎖 Grants and Awards
 - **Excellent Doctoral Dissertation Award**, East China Normal University (2023)
