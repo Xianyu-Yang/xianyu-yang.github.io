@@ -23,9 +23,9 @@ When I’m off work, I’m usually outdoors, hiking along mountain trails on wee
 # 🔥 Areas of Emphasis
 Forest Dynamics, Species Diversity, Species Range Limits, Ecological Restoration, Tree Demography, Life history Theory
 
-<figure>
-    <img src="/images/Research area.png" alt="" loading="lazy">
-  </figure>
+<figure style="text-align: center;">
+  <img src="/images/Research area.png" alt="" style="width: 80%;" loading="lazy">
+</figure>
 
 # 📢 News
 2025-08 Delighted to share that I have been selected to join the Junior Editorial Board of [_Journal of Plant Ecology_](https://academic.oup.com/jpe){:target="_blank"} (Q1, if: 3.9) and  [_Forestry Research_](https://www.maxapress.com/forres){:target="_blank"} (Q1, if: 5.0).
