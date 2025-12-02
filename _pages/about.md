@@ -24,7 +24,7 @@ When I’m off work, I’m usually outdoors, hiking along mountain trails on wee
 Forest Dynamics, Species Diversity, Species Range Limits, Ecological Restoration, Tree Demography, Life history Theory
 
 <figure style="text-align: center;">
-  <img src="/images/Research area.png" alt="" style="width: 80%;" loading="lazy">
+  <img src="/images/Research area.png" alt="" style="width: 50%;" loading="lazy">
 </figure>
 
 # 📢 News
