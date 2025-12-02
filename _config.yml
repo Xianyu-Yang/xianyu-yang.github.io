@@ -6,8 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Xianyu Yang"
-description              : ""
+title: "Xianyu Yang - Postdoc at ETH Zürich"
+description: "Academic website of Xianyu Yang, Postdoc at ETH Zürich. Researching Forest Dynamics, Tree Demography, and Species Range Limits."
+url: "https://xianyu-yang.github.io"
 repository               : "xianyu-yang.github.io"
 google_scholar_stats_use_cdn : true
 
