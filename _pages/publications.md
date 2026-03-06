@@ -12,8 +12,6 @@ author_profile: true
  
 -	**Yang, X.**\*, ..., Bialic-Murphy L. Decadal transient population dynamics reveal the shifting importance of fecundity and survival in a logged subtropical forest. (resubmission to _Journal of Plant Ecology_)
 
--	Santos G.\*, **Yang, X.**, Gascoigne S., Compagnoni A., Dias A., Tuljapurkar S., Kajin M., Salguero-Gómez R. Population responses to environmental stochasticity are primarily driven by survival-reproduction trade-offs and mediated by aridity. (accpeted by _Nature Communications_)
-
 - Perkowski, E., ..., **Yang, X.**, Bialic-Murphy L., Kivlin, S.N.\* (2025). The negative effects of an allelopathic invader on native plant photosynthesis intensify as the growth season progresses. (under review in _Functional Ecology_)
 
 -	Bialic-Murphy L.\*, Galen, L.G., Kivlin, S.N., ..., **Yang, X.**,, Kalisz, S., Crowther, T. (2025). Fungal diversity-plant productivity relationships in the Anthropocene. (under review in _Nature Plants_)
@@ -22,6 +20,9 @@ author_profile: true
 
 
 # 📝 Peer-reviewed publications 
+
+2026
+-	Santos G.\*, **Yang, X.**, Gascoigne S., Compagnoni A., Dias A., Tuljapurkar S., Kajin M., Salguero-Gómez R. Population responses to environmental stochasticity are primarily driven by survival-reproduction trade-offs and mediated by aridity. (accpeted by _Nature Communications_)
 
 2025
 - Wen, N., Crowther, T., Du, Y.\*, ..., **Yang, X.**, ..., Bialic-Murphy, L. (2025). Wilderness quality, habitat connectivity, and the effectiveness of protected areas diminish as human activities intensify. _Conservation Letters_, 18, no. 5: e13149. [Link](https://conbio.onlinelibrary.wiley.com/doi/10.1111/conl.13149){:target="_blank"}
