@@ -10,7 +10,7 @@ author_profile: true
 
 - **Yang, X.**\*, ..., Bialic-Murphy L. Beyond the fast-slow continuum: A multidimensional life-history framework for trees. (in preparation)
  
--	**Yang, X.**\*, ..., Bialic-Murphy L. Decadal transient population dynamics reveal the shifting importance of fecundity and survival in a logged subtropical forest. (under review _Journal of Plant Ecology_)
+-	**Yang, X.**\*, ..., Bialic-Murphy L. Decadal transient population dynamics reveal the shifting importance of fecundity and survival in a logged subtropical forest. (under review in _Journal of Plant Ecology_)
 
 - Perkowski, E., ..., **Yang, X.**, Bialic-Murphy L., Kivlin, S.N.\* (2025). The negative effects of an allelopathic invader on native plant photosynthesis intensify as the growth season progresses. (under review in _Functional Ecology_)
 
