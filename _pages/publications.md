@@ -24,6 +24,8 @@ author_profile: true
 2026
 -	Santos G.\*, **Yang, X.**, Gascoigne S., Compagnoni A., Dias A., Tuljapurkar S., Kajin M., Salguero-Gómez R. Population responses to environmental stochasticity are primarily driven by survival-reproduction trade-offs and mediated by aridity. (accpeted by _Nature Communications_)
 
+-	Xu Y., Yang, H., Shi S., **Yang, X.**, Huang J., Chen Z., Ding Z.\*. Machine learning-based construction and network resilience assessment of wind-resistant tree species ecological networks: A case study from coastal southeast China. _Journal of Environmental Management_, 2026, 0301-4797. [Link](https://www.sciencedirect.com/science/article/pii/S0301479726007723?dgcid=coauthor){:target="_blank"}
+
 2025
 - Wen, N., Crowther, T., Du, Y.\*, ..., **Yang, X.**, ..., Bialic-Murphy, L. (2025). Wilderness quality, habitat connectivity, and the effectiveness of protected areas diminish as human activities intensify. _Conservation Letters_, 18, no. 5: e13149. [Link](https://conbio.onlinelibrary.wiley.com/doi/10.1111/conl.13149){:target="_blank"}
 
