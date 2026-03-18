@@ -21,7 +21,7 @@ author_profile: true
 
 2026
 
--	**Yang, X.**\*, ..., Bialic-Murphy L. Decadal transient population dynamics reveal the shifting importance of fecundity and survival in a logged subtropical forest. (Accepted by _Journal of Plant Ecology_)
+-	**Yang, X.**\*, ..., Bialic-Murphy L. Transient amplification driven by fecundity pulses: Shifting demographic bottlenecks during the decadal recovery of a pioneer tree. (Accepted by _Journal of Plant Ecology_)
 
 -	Santos G.\*, **Yang, X.**, Gascoigne S., Compagnoni A., Dias A., Tuljapurkar S., Kajin M., Salguero-Gómez R. Population responses to environmental stochasticity are primarily driven by survival-reproduction trade-offs and mediated by aridity. (accpeted by _Nature Communications_)
 
