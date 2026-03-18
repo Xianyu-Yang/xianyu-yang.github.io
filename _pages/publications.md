@@ -9,8 +9,6 @@ author_profile: true
 - **Yang, X.**\*, ..., Bialic-Murphy L. Fundamental shifts in tree growth and longevity across climate gradients. (in preparation)
 
 - **Yang, X.**\*, ..., Bialic-Murphy L. Beyond the fast-slow continuum: A multidimensional life-history framework for trees. (in preparation)
- 
--	**Yang, X.**\*, ..., Bialic-Murphy L. Decadal transient population dynamics reveal the shifting importance of fecundity and survival in a logged subtropical forest. (under review in _Journal of Plant Ecology_)
 
 - Perkowski, E., ..., **Yang, X.**, Bialic-Murphy L., Kivlin, S.N.\* (2025). The negative effects of an allelopathic invader on native plant photosynthesis intensify as the growth season progresses. (under review in _Functional Ecology_)
 
@@ -22,6 +20,9 @@ author_profile: true
 # 📝 Peer-reviewed publications 
 
 2026
+
+-	**Yang, X.**\*, ..., Bialic-Murphy L. Decadal transient population dynamics reveal the shifting importance of fecundity and survival in a logged subtropical forest. (Accepted by _Journal of Plant Ecology_)
+
 -	Santos G.\*, **Yang, X.**, Gascoigne S., Compagnoni A., Dias A., Tuljapurkar S., Kajin M., Salguero-Gómez R. Population responses to environmental stochasticity are primarily driven by survival-reproduction trade-offs and mediated by aridity. (accpeted by _Nature Communications_)
 
 -	Xu Y., Yang, H., Shi S., **Yang, X.**, Huang J., Chen Z., Ding Z.\*. Machine learning-based construction and network resilience assessment of wind-resistant tree species ecological networks: A case study from coastal southeast China. _Journal of Environmental Management_, 2026, 0301-4797. [Link](https://www.sciencedirect.com/science/article/pii/S0301479726007723?dgcid=coauthor){:target="_blank"}
