@@ -28,4 +28,4 @@ Forest Dynamics, Species Diversity, Species Range Limits, Ecological Restoration
 </figure>
 
 # 📢 News
-2025-08 Delighted to share that I have been selected to join the Junior Editorial Board of [_Journal of Plant Ecology_](https://academic.oup.com/jpe){:target="_blank"} (Q1, if: 3.9) and  [_Forestry Research_](https://www.maxapress.com/forres){:target="_blank"} (Q1, if: 5.0).
+2026-03 Excited to announce my paper about transient dynamics of tree species after logging is accepted by _Journal of Plant Ecology_ (Q1, if: 3.9).
