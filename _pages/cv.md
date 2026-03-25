@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: true
 ---
 
-# 🕮 Academic / Research Positions
+# 🕮 Professional Experience
 - **Postdoctoral Researcher** (2024.01 – present)  
   Advisor: [Dr. Lalasia Bialic-Murphy](https://crowtherlab.com/dr-lalasia-bialic-murphy/){:target="_blank"}  
   Institute of Integrative Biology, ETH Zürich, Zürich, Switzerland
@@ -13,20 +13,9 @@ author_profile: true
 - **Visiting Scientist** (2025.11 – present)  
   Advisor: [Dr. Lalasia Bialic-Murphy](https://www.wsl.ch/en/staff/bialicla/){:target="_blank"}  
   Swiss Federal Research Institute WSL, Zürich, Switzerland
-
-- **Visiting Scholar** (2025.08 – 2025.09)  
-  Advisor: [Prof. Barnabas Daru](https://profiles.stanford.edu/barnabas-daru){:target="_blank"}  
-  Department of Biology, Stanford University, Palo Alto, USA
-
-- **Visiting Scholar** (2023.07 – 2023.10)  
-  Advisor: [Prof. Hans Cornelissen](https://research.vu.nl/en/persons/hans-cornelissen){:target="_blank"}  
-  Systems Ecology, Vrije Universiteit Amsterdam, Netherlands
   
-- **Visiting Student** (2021.03 – 2022.03)  
-  Supervisor: [Prof. Amy Angert](https://angert.github.io/people.html){:target="_blank"}  
-  Biodiversity Research Center, University of British Columbia, Canada
-  
-# 📖 Education
+# 📖 Education & Training
+
 - **Ph.D. in Ecology** (2018.09 – 2023.07)  
   Supervisor: [Prof. Jian Zhang](https://ecoinfor.github.io/index.html){:target="_blank"}  
   School of Ecological and Environmental Sciences, East China Normal University, China
@@ -37,6 +26,19 @@ author_profile: true
 
 - **B.Sc. in Geography Science** (2011.09 – 2015.07)  
   School of Geographical Science, Chizhou University, China
+
+- **Visiting Scholar** (2025)  
+  Advisor: [Prof. Barnabas Daru](https://profiles.stanford.edu/barnabas-daru){:target="_blank"}  
+  Department of Biology, Stanford University, Palo Alto, USA
+
+- **Visiting Scholar** (2023)  
+  Advisor: [Prof. Hans Cornelissen](https://research.vu.nl/en/persons/hans-cornelissen){:target="_blank"}  
+  Systems Ecology, Vrije Universiteit Amsterdam, Netherlands
+  
+- **Visiting Student** (2021)  
+  Supervisor: [Prof. Amy Angert](https://angert.github.io/people.html){:target="_blank"}  
+  Biodiversity Research Center, University of British Columbia, Canada
+  
   
 # 🎖 Grants and Awards
 - **Excellent Doctoral Dissertation Award**, East China Normal University (2023)
