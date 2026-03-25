@@ -45,7 +45,7 @@ author_profile: true
 - **Excellent Poster Award**, The 14th National Conference on Biodiversity Science and Conservation (2022)
 - **Best Student Paper Award**, The Sino-Ecologists Association Overseas (2022)
 
-# 🧑‍🏫 Editor board:
+# 🧑‍🏫 Editorial Board:
 - Forestry research (Junior-Editor; 2025-09-01 - Present)
 - Journal of Plant Ecology (Junior-Editor; 2025-09-15 - Present)
 
