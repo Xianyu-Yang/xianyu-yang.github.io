@@ -36,7 +36,7 @@ author_profile: true
   Systems Ecology, Vrije Universiteit Amsterdam, Netherlands
   
 - **Visiting Student** (2021)  
-  Supervisor: [Prof. Amy Angert](https://angert.github.io/people.html){:target="_blank"}  
+  Advisor: [Prof. Amy Angert](https://angert.github.io/people.html){:target="_blank"}  
   Biodiversity Research Center, University of British Columbia, Canada
   
   
