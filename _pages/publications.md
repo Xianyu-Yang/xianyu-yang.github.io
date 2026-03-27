@@ -8,7 +8,7 @@ author_profile: true
 # 📝 Working papers
 - **Yang, X.**\*, ..., Bialic-Murphy L. Fundamental shifts in tree growth and longevity across climate gradients. (in preparation)
 
-- Bialic-Murphy L，**Yang, X.** Beyond the fast-slow continuum: A multidimensional life-history framework for trees. (in preparation)
+- Bialic-Murphy L, **Yang, X.** Beyond the fast-slow continuum: A multidimensional life-history framework for trees. (in preparation)
 
 - Perkowski, E., ..., **Yang, X.**, Bialic-Murphy L., Kivlin, S.N.\* (2025). The negative effects of an allelopathic invader on native plant photosynthesis intensify as the growth season progresses. (under review in _Functional Ecology_)
 
