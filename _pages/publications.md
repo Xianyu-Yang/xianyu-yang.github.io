@@ -12,10 +12,11 @@ author_profile: true
 
 - Perkowski, E., ..., **Yang, X.**, Bialic-Murphy L., Kivlin, S.N.\* (2025). The negative effects of an allelopathic invader on native plant photosynthesis intensify as the growth season progresses. (under review in _Functional Ecology_)
 
--	Bialic-Murphy L.\*, Galen, L.G., Kivlin, S.N., ..., **Yang, X.**,, Kalisz, S., Crowther, T. (2025). Fungal diversity-plant productivity relationships in the Anthropocene. (in preparation)
+-	Bialic-Murphy L.\*, Galen, L.G., Kivlin, S.N., ..., **Yang, X.**, Kalisz, S., Crowther, T. (2025). Fungal diversity-plant productivity relationships in the Anthropocene. (in preparation)
 
 -	Haozhi M.\*, Constantin Z., Chi X., **Yang, X.**, Lidong M., Jean-François B., Crowther, T. Tree species associations along climate gradients across the United States. (submitted to eLife)
 
+- Kong, F.,  ..., **Yang, X.**, Chu C.\*, Predominantly negative impacts of environmental fluctuations on tree coexistence in a tropical forest. (submitted to Ecology Letters)
 
 # 📝 Peer-reviewed publications 
 
