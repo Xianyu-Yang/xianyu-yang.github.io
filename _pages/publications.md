@@ -8,7 +8,7 @@ author_profile: true
 # 📝 Working papers
 - **Yang, X.**\*, ..., Bialic-Murphy L. Fundamental shifts in tree growth and longevity across climate gradients. (in preparation)
 
-- **Yang, X.**\*, ..., Bialic-Murphy L. Beyond the fast-slow continuum: A multidimensional life-history framework for trees. (in preparation)
+- Bialic-Murphy L，**Yang, X.**\* Beyond the fast-slow continuum: A multidimensional life-history framework for trees. (in preparation)
 
 - Perkowski, E., ..., **Yang, X.**, Bialic-Murphy L., Kivlin, S.N.\* (2025). The negative effects of an allelopathic invader on native plant photosynthesis intensify as the growth season progresses. (under review in _Functional Ecology_)
 
@@ -21,7 +21,6 @@ author_profile: true
 # 📝 Peer-reviewed publications 
 
 2026
-
 -	**Yang, X.**\*, ..., Bialic-Murphy L. Transient amplification driven by fecundity pulses: Shifting demographic bottlenecks during the decadal recovery of a pioneer tree. (Accepted by _Journal of Plant Ecology_)
 
 -	Santos G.\*, **Yang, X.**, Gascoigne S., Compagnoni A., Dias A., Tuljapurkar S., Kajin M., Salguero-Gómez R. Population responses to environmental stochasticity are primarily driven by survival-reproduction trade-offs and mediated by aridity. (accpeted by _Nature Communications_)
@@ -29,11 +28,11 @@ author_profile: true
 -	Xu Y., Yang, H., Shi S., **Yang, X.**, Huang J., Chen Z., Ding Z.\*. Machine learning-based construction and network resilience assessment of wind-resistant tree species ecological networks: A case study from coastal southeast China. _Journal of Environmental Management_, 2026, 0301-4797. [Link](https://www.sciencedirect.com/science/article/pii/S0301479726007723?dgcid=coauthor){:target="_blank"}
 
 2025
+-  **Yang, X.**, Angert, A.L., Zuidema, P.A., Santos, S.G., Lyu, S., Bialic-Murphy, L., Zhang, J.\* (2025). Coexistence of tropical forest tree species along the demographic buffering spectrum. _Global Change Biology_, 31(6): e70310. [Link](https://onlinelibrary.wiley.com/doi/10.1111/gcb.70310){:target="_blank"}
+
 - Wen, N., Crowther, T., Du, Y.\*, ..., **Yang, X.**, ..., Bialic-Murphy, L. (2025). Wilderness quality, habitat connectivity, and the effectiveness of protected areas diminish as human activities intensify. _Conservation Letters_, 18, no. 5: e13149. [Link](https://conbio.onlinelibrary.wiley.com/doi/10.1111/conl.13149){:target="_blank"}
 
 - Chen, W., Zhang, Y., Lv, H., Tao, Y., Ding, Y., **Yang, X.**\*, Tian, Z.\*, Li, J. (2025). Dramatic decline of wild apple population: evidence from long-term monitoring and modelling.  _Global Ecology & Conservation_, 62, e03861. [Link](https://www.sciencedirect.com/science/article/pii/S2351989425004627?via%3Dihub){:target="_blank"}
-  
--  **Yang, X.**, Angert, A.L., Zuidema, P.A., Santos, S.G., Lyu, S., Bialic-Murphy, L., Zhang, J.\* (2025). Coexistence of tropical forest tree species along the demographic buffering spectrum. _Global Change Biology_, 31(6): e70310. [Link](https://onlinelibrary.wiley.com/doi/10.1111/gcb.70310){:target="_blank"}
 
 - Liu, A., Liu, R., Lei, F., ..., Li, S.\*, **Yang, X.** (2025). Demographic performance and climate change response of a pioneer tree species (*Pinus massoniana*) during ecological restoration in subtropical China. _Journal of Forestry Research_, 36, 34. [Link](https://link.springer.com/article/10.1007/s11676-025-01831-0){:target="_blank"}
 
