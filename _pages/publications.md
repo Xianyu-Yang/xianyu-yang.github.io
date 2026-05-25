@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 # 📝 Working papers
-- **Yang, X.**\*, ..., Bialic-Murphy L. Tree traits predict growth and longevity responses to climate change. (under review in _Nature Ecology & Evolution_)
+- **Yang, X.**\*, ..., Bialic-Murphy L. Functional traits predict tree growth and longevity responses to temperature. (under review in _Nature Ecology & Evolution_)
 
 - **Yang, X.**\*, ..., Bialic-Murphy L. Mycorrhizal mutualisms reshape links between tree functional strategies and life histories. (in preparation)
 
