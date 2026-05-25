@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 # 📝 Working papers
-- **Yang, X.**\*, ..., Bialic-Murphy L. Tree traits predict growth and longevity responses to climate change. (submitted to _Nature Ecology & Evolution_)
+- **Yang, X.**\*, ..., Bialic-Murphy L. Tree traits predict growth and longevity responses to climate change. (under review in _Nature Ecology & Evolution_)
 
 - Bialic-Murphy L., **Yang, X.** Beyond the fast-slow continuum: A multidimensional life-history framework for trees. (in preparation)
 
