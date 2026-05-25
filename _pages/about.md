@@ -28,4 +28,5 @@ Forest Dynamics, Species Diversity, Species Range Limits, Ecological Restoration
 </figure>
 
 # 📢 News
+2026-07 I will be attending the 2026 ESA Conference in Salt Lake City, USA!
 2026-03 Excited to announce my paper about transient dynamics of tree species after logging is accepted by _Journal of Plant Ecology_ (Q1, if: 3.9).
