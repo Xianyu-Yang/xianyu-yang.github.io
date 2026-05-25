@@ -16,9 +16,9 @@ author_profile: true
 
 -	Bialic-Murphy L.\*, Galen, L.G., Kivlin, S.N., ..., **Yang, X.**, Kalisz, S., Crowther, T. (2025). Fungal diversity-plant productivity relationships in the Anthropocene. (in preparation)
 
--	Haozhi M.\*, Constantin Z., Chi X., **Yang, X.**, Lidong M., Jean-François B., Crowther, T. Tree species associations along climate gradients across the United States. (submitted to eLife)
+-	Haozhi M.\*, Constantin Z., Chi X., **Yang, X.**, Lidong M., Jean-François B., Crowther, T. Tree species associations along climate gradients across the United States. (in preparation)
 
-- Kong, F.,  **Yang, X.**, ..., Chu C.\*. Predominantly negative impacts of environmental fluctuations on tree coexistence in a tropical forest. (submitted to Ecology Letters)
+- Kong, F.,  **Yang, X.**, ..., Chu C.\*. Predominantly negative impacts of environmental fluctuations on tree coexistence in a tropical forest. (in preparation)
 
 # 📝 Peer-reviewed publications 
 
