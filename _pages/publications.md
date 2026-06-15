@@ -8,7 +8,7 @@ author_profile: true
 # 📝 Working papers
 - **Yang, X.**\*, ..., Bialic-Murphy L. Functional traits predict tree growth and longevity responses to temperature. (under review in _Nature Ecology & Evolution_)
 
-- **Yang, X.**\*, ..., Bialic-Murphy L. Mycorrhizal mutualisms reshape tree trait–life-history links. (in preparation)
+- **Yang, X.**\*, ..., Bialic-Murphy L. Mycorrhizal context modifies trait–life-history relationships in forest trees. (in preparation)
 
 - Bialic-Murphy L., **Yang, X.** Beyond the fast-slow continuum: A multidimensional life-history framework for trees. (in preparation)
 
