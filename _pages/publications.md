@@ -27,7 +27,7 @@ author_profile: true
 
 -	Xu Y., Yang, H., Shi S., **Yang, X.**, Huang J., Chen Z., Ding Z.\*. (2026). Machine learning-based construction and network resilience assessment of wind-resistant tree species ecological networks: A case study from coastal southeast China. _Journal of Environmental Management_, 0301-4797. [Link](https://www.sciencedirect.com/science/article/pii/S0301479726007723?dgcid=coauthor){:target="_blank"}
 
--	Perkowski, E., ..., **Yang, X.**, Bialic-Murphy L., Kivlin, S.N.\* (2025). The negative effects of an allelopathic invader on native plant photosynthesis are amplified after tree canopy closure. (accpeted in _Functional Ecology_)
+-	Perkowski, E., ..., **Yang, X.**, Bialic-Murphy L., Kivlin, S.N.\* (2025). The negative effects of an allelopathic invader on native plant photosynthesis are amplified after tree canopy closure. (accpeted by _Functional Ecology_)
 
 2025
 -  **Yang, X.**, Angert, A.L., Zuidema, P.A., Santos, S.G., Lyu, S., Bialic-Murphy, L., Zhang, J.\* (2025). Coexistence of tropical forest tree species along the demographic buffering spectrum. _Global Change Biology_, 31(6): e70310. [Link](https://onlinelibrary.wiley.com/doi/10.1111/gcb.70310){:target="_blank"}
