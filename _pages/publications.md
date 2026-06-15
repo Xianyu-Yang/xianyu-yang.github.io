@@ -12,10 +12,9 @@ author_profile: true
 
 - Bialic-Murphy L., **Yang, X.** Beyond the fast-slow continuum: A multidimensional life-history framework for trees. (in preparation)
 
-
 -	Bialic-Murphy L.\*, Galen, L.G., Kivlin, S.N., ..., **Yang, X.**, Kalisz, S., Crowther, T. (2025). Fungal diversity-plant productivity relationships in the Anthropocene. (in preparation)
 
--	Haozhi M.\*, Constantin Z., Chi X., **Yang, X.**, Lidong M., Jean-François B., Crowther, T. Tree species associations along climate gradients across the United States. (in preparation)
+-	Haozhi M.\*, Constantin Z., Chi X., **Yang, X.**, Lidong M., Jean-François B., Crowther, T. Tree species associations along climate gradients across the United States. (under review in _Journal of Plant Ecology_)
 
 - Kong, F.,  **Yang, X.**, ..., Chu C.\*. Predominantly negative impacts of environmental fluctuations on tree coexistence in a tropical forest. (in preparation)
 
