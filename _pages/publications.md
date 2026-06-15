@@ -24,7 +24,7 @@ author_profile: true
 2026
 -	**Yang, X.**\*, Rong, L., Zuidem, P.A., ..., Bialic-Murphy L. (2026). Transient amplification driven by fecundity pulses: Shifting demographic bottlenecks during the decadal recovery of a pioneer tree. _Journal of Plant Ecology_, rtag067. [Link](https://academic.oup.com/jpe/advance-article/doi/10.1093/jpe/rtag067/8586255?utm_source=authortollfreelink&utm_campaign=jpe&utm_medium=email&guestAccessKey=){:target="_blank"}
 
--	Santos G.\*, **Yang, X.**, Gascoigne S., Compagnoni A., Dias A., Tuljapurkar S., Kajin M., Salguero-Gómez R. Population responses to environmental stochasticity are primarily driven by survival-reproduction trade-offs and mediated by aridity. (accpeted by _Nature Communications_)
+-	Santos G.\*, **Yang, X.**, Gascoigne S., Compagnoni A., Dias A., Tuljapurkar S., Kajin M., Salguero-Gómez R. Plant population responses to environmental variability are primarily driven by survivalreproduction trade-offs and mediated by aridity. (accpeted by _Nature Communications_)
 
 -	Xu Y., Yang, H., Shi S., **Yang, X.**, Huang J., Chen Z., Ding Z.\*. (2026). Machine learning-based construction and network resilience assessment of wind-resistant tree species ecological networks: A case study from coastal southeast China. _Journal of Environmental Management_, 0301-4797. [Link](https://www.sciencedirect.com/science/article/pii/S0301479726007723?dgcid=coauthor){:target="_blank"}
 
