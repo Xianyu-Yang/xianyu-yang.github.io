@@ -7,9 +7,9 @@
 
 # Site Settings
 title: "Xianyu Yang - Postdoc at ETH Zürich"
-description: ""
+description: "Xianyu Yang is a postdoctoral researcher at ETH Zürich studying plant demography, forest dynamics, species range limits, ecological restoration, and biodiversity responses to global change."
 url: "https://xianyu-yang.github.io"
-repository               : "xianyu-yang.github.io"
+repository               : "Xianyu-Yang/xianyu-yang.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -24,9 +24,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xianyu Yang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Postdoc at ETH Zürich"
+  bio              : "Postdoctoral researcher in plant demography and forest dynamics at ETH Zürich"
   location         : "Zürich, Switzerland"
-  employer         :
+  employer         : "ETH Zürich"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=TRXRlmsAAAAJ"
   email            : "xianyu.yang@usys.ethz.ch"
@@ -38,7 +38,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "Xianyu-Yang"
   google_plus      :
   keybase          :
   instagram        :
@@ -137,7 +137,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Zurich # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

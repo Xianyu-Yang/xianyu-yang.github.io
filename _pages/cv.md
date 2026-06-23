@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: true
 ---
 
-# 🕮 Professional Experience
+# Professional Experience
 - **Postdoctoral Researcher** (2024.01 – present)  
   Advisor: [Dr. Lalasia Bialic-Murphy](https://crowtherlab.com/dr-lalasia-bialic-murphy/){:target="_blank"}  
   Institute of Integrative Biology, ETH Zürich, Zürich, Switzerland
@@ -14,7 +14,7 @@ author_profile: true
   Advisor: [Dr. Lalasia Bialic-Murphy](https://www.wsl.ch/en/staff/bialicla/){:target="_blank"}  
   Swiss Federal Research Institute WSL, Zürich, Switzerland
   
-# 📖 Education & Training
+# Education & Training
 
 - **Ph.D. in Ecology** (2018.09 – 2023.07)  
   Supervisor: [Prof. Jian Zhang](https://ecoinfor.github.io/index.html){:target="_blank"}  
@@ -40,19 +40,19 @@ author_profile: true
   Biodiversity Research Center, University of British Columbia, Canada
   
   
-# 🎖 Grants and Awards
+# Grants and Awards
 - **Excellent Doctoral Dissertation Award**, East China Normal University (2023)
 - **Excellent Poster Award**, The 14th National Conference on Biodiversity Science and Conservation (2022)
 - **Best Student Paper Award**, The Sino-Ecologists Association Overseas (2022)
 
-# 🧑‍🏫 Editorial Board:
+# Editorial Board
 - Forestry research (Junior-Editor; 2025-09-01 - Present)
 - Journal of Plant Ecology (Junior-Editor; 2025-09-15 - Present)
 
-# 👀 Manuscript Review:
+# Manuscript Review
 Biological Conservation, Ecology and Evolution, Global Ecology and Biogeography (2), Global Change Biology, Journal of Ecology (2), Proceedings of the Royal Society B: Biological Sciences, Plants
 
-# 💬 Conferences and Workshops
+# Conferences and Workshops
 - **Presenter**, 10th Evolutionary Demography Conference, September 2025, Oxford, UK
 - **Presenter**, Annual Meeting of the Ecological Society of America, August 2024, Long Beach, USA  
 - **Presenter**, Vrije Universiteit Amsterdam, July 2024, Amsterdam, Netherlands  
