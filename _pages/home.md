@@ -23,32 +23,43 @@ author_profile: true
   </figure>
 </section>
 
-# Research Projects
+# Current Projects
 
 <div class="project-overview-grid">
   <article>
-    <p class="project-kicker">Range limits</p>
-    <h3>Why do tree species persist at their edges?</h3>
-    <p>Testing how survival, growth, recruitment, and demographic compensation stabilize marginal tree populations across environmental gradients.</p>
-    <a href="/publications/">Ecology Letters and related work</a>
+    <p class="project-kicker">Func-traits-Demo</p>
+    <h3>Functional traits and demographic responses to temperature</h3>
+    <p class="project-status">Manuscript under review</p>
+    <p>This project asks whether functional traits can predict how tree growth and longevity respond to temperature. It links trait-based ecology with demographic rates to test when warming favors faster growth, longer persistence, or shifts in life-history strategy.</p>
+    <a href="/publications/">Working paper</a>
   </article>
   <article>
-    <p class="project-kicker">Restoration dynamics</p>
-    <h3>How do degraded forests recover after disturbance?</h3>
-    <p>Following decadal recovery after logging and restoration to identify shifting bottlenecks, fecundity pulses, and trajectories of biodiversity recovery.</p>
-    <a href="/publications/">Journal of Plant Ecology and restoration papers</a>
+    <p class="project-kicker">Forest dynamics plots</p>
+    <h3>Demographic strategies across large forest plots</h3>
+    <p class="project-status">Ongoing synthesis</p>
+    <p>Using repeated censuses from multiple large forest dynamics plots, this work compares survival, growth, recruitment, and population performance across species and climates. The goal is to understand which demographic strategies buffer forests against environmental change.</p>
+    <a href="/publications/">Related publications</a>
   </article>
   <article>
-    <p class="project-kicker">Coexistence</p>
-    <h3>How do life-history strategies maintain diversity?</h3>
-    <p>Linking demographic buffering, trade-offs, and environmental variability to tree species coexistence in tropical and temperate forests.</p>
-    <a href="/publications/">Global Change Biology and working papers</a>
+    <p class="project-kicker">Species associations</p>
+    <h3>Tree associations along climate gradients</h3>
+    <p class="project-status">Manuscript under review</p>
+    <p>This collaborative project examines how tree species associations vary across climate gradients in the United States. It connects spatial community patterns with climate context to ask when species co-occur, segregate, or shift their association structure.</p>
+    <a href="/publications/">Working paper</a>
   </article>
   <article>
-    <p class="project-kicker">Global change</p>
-    <h3>Which traits predict forest responses to climate?</h3>
-    <p>Connecting traits, mycorrhizal context, climate gradients, and life-history axes to forecast how forest tree species respond to warming and disturbance.</p>
-    <a href="/publications/">Current manuscripts</a>
+    <p class="project-kicker">TT Project</p>
+    <h3>Root fungi, invader removal, and forest herb demography</h3>
+    <p class="project-status">Manuscript in development</p>
+    <p>The Trillium Trail project links long-term garlic mustard removal, individual-root fungal communities, and demographic vital rates of native forest herbs. Current analyses test whether AMF and pathogen-associated fungal axes help explain growth, flowering, and fecundity.</p>
+    <a href="/publications/">Demography and restoration work</a>
+  </article>
+  <article>
+    <p class="project-kicker">Life-history synthesis</p>
+    <h3>Beyond single vital rates</h3>
+    <p class="project-status">Conceptual and comparative work</p>
+    <p>Across these projects, I am interested in how vital rates combine into whole life-history strategies. This includes demographic buffering, growth-survival trade-offs, trait-demography links, and the conditions that allow forests to persist, recover, and maintain diversity.</p>
+    <a href="/about/">Research framework</a>
   </article>
 </div>
 

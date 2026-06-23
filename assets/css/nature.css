@@ -327,6 +327,20 @@ a {
   color: var(--nature-muted);
 }
 
+.project-status {
+  display: inline-flex;
+  align-self: flex-start;
+  margin: 0 0 0.85rem !important;
+  border: 1px solid rgba(138, 167, 103, 0.42);
+  border-radius: 999px;
+  padding: 0.18rem 0.55rem;
+  background: rgba(237, 245, 240, 0.72);
+  color: var(--nature-deep) !important;
+  font-size: 0.78rem;
+  font-weight: 750;
+  line-height: 1.35;
+}
+
 .project-overview-grid a {
   margin-top: auto;
   font-weight: 750;
