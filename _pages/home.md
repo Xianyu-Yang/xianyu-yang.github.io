@@ -41,6 +41,13 @@ author_profile: true
     <a href="/publications/">Forest demography work</a>
   </article>
   <article>
+    <p class="project-kicker">Forest carbon</p>
+    <h3>Community demography and biomass gain-loss pathways</h3>
+    <p class="project-status">Ambizione preliminary analysis</p>
+    <p>This project tests whether baseline community demography predicts plot-level aboveground biomass accumulation, woody gain, mortality loss, and carbon-retention pathways. Using North American forest inventory intervals, it asks whether demographic strategy adds predictive value beyond climate, stand structure, diversity, dominance, and competition controls.</p>
+    <a href="/publications/">Demography-carbon framework</a>
+  </article>
+  <article>
     <p class="project-kicker">Climate sensitivity</p>
     <h3>Trait-structured tree growth and longevity responses to climate</h3>
     <p class="project-status">Manuscript under review</p>
