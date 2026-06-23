@@ -17,12 +17,15 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v5
       with:
-        python-version: "3.x"
+        python-version: "3.11"
     - name: Run Google Scholar crawler
       run: |
         cd ./google_scholar_crawler
         pip3 install -r requirements.txt
-        python3 main.py
+        python3 main.py || {
+          echo "Google Scholar could not be reached. Skipping citation update without failing the site build."
+          exit 0
+        }
         cd ./results
         git init
         git config --local user.name "${GITHUB_ACTOR}"
