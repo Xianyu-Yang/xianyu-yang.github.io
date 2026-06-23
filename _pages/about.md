@@ -91,6 +91,6 @@ Outside research, I am usually outdoors: hiking mountain trails, swimming in alp
 
 <ul class="news-list">
   <li><strong>2026-07</strong> I will attend the 2026 Ecological Society of America Annual Meeting in Salt Lake City, USA.</li>
-  <li><strong>2026-03</strong> Our paper on transient dynamics during tree recovery after logging was accepted by _Journal of Plant Ecology_.</li>
-  <li><strong>2025-08</strong> I was selected to join the Junior Editorial Board of _Journal of Plant Ecology_ and _Forestry Research_.</li>
+  <li><strong>2026-03</strong> Our paper on transient dynamics during tree recovery after logging was accepted by <em>Journal of Plant Ecology</em>.</li>
+  <li><strong>2025-08</strong> I was selected to join the Junior Editorial Board of <em>Journal of Plant Ecology</em> and <em>Forestry Research</em>.</li>
 </ul>
