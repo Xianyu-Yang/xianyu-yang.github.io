@@ -7,6 +7,29 @@ author_profile: true
 
 <p class="publication-note">My publications focus on plant demography, forest dynamics, species range limits, ecological restoration, and biodiversity responses to environmental change. Representative papers are listed below, with links to journal pages when available.</p>
 
+# Selected Papers
+
+<div class="selected-paper-grid">
+  <article>
+    <p class="paper-year">2026</p>
+    <h3>Transient amplification during tree recovery</h3>
+    <p>Shows how fecundity pulses can shift demographic bottlenecks during decadal recovery after logging.</p>
+    <a href="https://academic.oup.com/jpe/advance-article/doi/10.1093/jpe/rtag067/8586255?utm_source=authortollfreelink&utm_campaign=jpe&utm_medium=email&guestAccessKey=" target="_blank" rel="noreferrer">Journal of Plant Ecology</a>
+  </article>
+  <article>
+    <p class="paper-year">2025</p>
+    <h3>Demographic buffering in tropical forests</h3>
+    <p>Links species coexistence to demographic buffering strategies across tropical forest tree species.</p>
+    <a href="https://onlinelibrary.wiley.com/doi/10.1111/gcb.70310" target="_blank" rel="noreferrer">Global Change Biology</a>
+  </article>
+  <article>
+    <p class="paper-year">2022</p>
+    <h3>Marginal tree population stability</h3>
+    <p>Demonstrates how demographic compensation can stabilize tree populations near species range limits.</p>
+    <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/ele.14028" target="_blank" rel="noreferrer">Ecology Letters</a>
+  </article>
+</div>
+
 # Working Papers
 - **Yang, X.**\*, ..., Bialic-Murphy L. Functional traits predict tree growth and longevity responses to temperature. (under review in _Nature Ecology & Evolution_)
 

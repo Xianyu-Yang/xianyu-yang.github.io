@@ -56,6 +56,33 @@ Outside research, I am usually outdoors: hiking mountain trails, swimming in alp
   </section>
 </div>
 
+<section class="research-framework" aria-label="Research framework">
+  <p class="nature-eyebrow">Research framework</p>
+  <h2>From changing environments to forest persistence</h2>
+  <div class="framework-flow">
+    <article>
+      <span>01</span>
+      <h3>Climate, disturbance, and restoration</h3>
+      <p>Environmental filters and human impacts set the context for tree population change.</p>
+    </article>
+    <article>
+      <span>02</span>
+      <h3>Demographic rates</h3>
+      <p>Survival, growth, recruitment, and fecundity reveal where population bottlenecks emerge.</p>
+    </article>
+    <article>
+      <span>03</span>
+      <h3>Life-history strategies</h3>
+      <p>Species differ in how they buffer risk, recover after disturbance, and trade off performance.</p>
+    </article>
+    <article>
+      <span>04</span>
+      <h3>Biodiversity and range limits</h3>
+      <p>Demographic mechanisms scale up to coexistence, marginal persistence, and forest futures.</p>
+    </article>
+  </div>
+</section>
+
 <p class="research-keywords">
   Forest dynamics · Species diversity · Species range limits · Ecological restoration · Tree demography · Life-history theory
 </p>

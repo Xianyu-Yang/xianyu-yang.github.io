@@ -280,6 +280,69 @@ a {
   font-weight: 700;
 }
 
+.research-framework {
+  margin: 1.8rem 0 1.3rem;
+  border: 1px solid var(--nature-line);
+  border-radius: 16px;
+  padding: 1.25rem;
+  background:
+    linear-gradient(135deg, rgba(255, 255, 255, 0.94), rgba(237, 245, 240, 0.68)),
+    #fff;
+  box-shadow: 0 14px 34px rgba(23, 35, 29, 0.07);
+}
+
+.research-framework h2 {
+  margin: 0 0 1rem;
+  color: var(--nature-deep);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.6rem;
+  line-height: 1.2;
+}
+
+.framework-flow {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 0.85rem;
+}
+
+.framework-flow article {
+  position: relative;
+  border: 1px solid rgba(219, 228, 218, 0.9);
+  border-radius: 12px;
+  background: rgba(255, 255, 255, 0.74);
+  padding: 1rem;
+}
+
+.framework-flow article:not(:last-child)::after {
+  content: "";
+  position: absolute;
+  top: 28px;
+  right: -0.58rem;
+  width: 0.58rem;
+  height: 2px;
+  background: var(--nature-moss);
+}
+
+.framework-flow span,
+.paper-year {
+  color: var(--nature-clay);
+  font-size: 0.76rem;
+  font-weight: 850;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.framework-flow h3 {
+  margin: 0.45rem 0 0.45rem;
+  font-size: 1rem;
+}
+
+.framework-flow p {
+  margin: 0;
+  color: var(--nature-muted);
+  font-size: 0.9rem;
+}
+
 .news-list {
   display: grid;
   gap: 0.72rem;
@@ -302,6 +365,39 @@ a {
   background: var(--nature-mist);
   padding: 0.9rem 1rem;
   color: var(--nature-deep);
+}
+
+.selected-paper-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1rem;
+  margin: 1.1rem 0 1.8rem;
+}
+
+.selected-paper-grid article {
+  display: flex;
+  min-height: 228px;
+  flex-direction: column;
+  border: 1px solid var(--nature-line);
+  border-radius: 14px;
+  background: #fff;
+  padding: 1.1rem;
+  box-shadow: 0 12px 28px rgba(23, 35, 29, 0.06);
+}
+
+.selected-paper-grid h3 {
+  margin: 0.45rem 0 0.5rem;
+  font-size: 1.08rem;
+}
+
+.selected-paper-grid p {
+  color: var(--nature-muted);
+}
+
+.selected-paper-grid a {
+  margin-top: auto;
+  font-weight: 750;
+  text-decoration: none;
 }
 
 .page__content ul li {
@@ -336,6 +432,20 @@ a {
 
   .research-focus-grid {
     grid-template-columns: 1fr;
+  }
+
+  .framework-flow,
+  .selected-paper-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .framework-flow article:not(:last-child)::after {
+    top: auto;
+    right: auto;
+    bottom: -0.5rem;
+    left: 1.1rem;
+    width: 2px;
+    height: 0.5rem;
   }
 }
 
