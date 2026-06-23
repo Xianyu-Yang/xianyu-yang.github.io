@@ -1,10 +1,9 @@
 ---
-permalink: /
-title: ""
+permalink: /about/
+title: "About"
 excerpt: ""
 author_profile: true
 redirect_from: 
-  - /about/
   - /about.html
 ---
 
@@ -17,25 +16,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<section class="nature-hero">
-  <div>
-    <p class="nature-eyebrow">Plant demography · Forest dynamics · Global change ecology</p>
-    <h1>How do forests persist, recover, and shift?</h1>
-    <p class="lead">I am a postdoctoral researcher at ETH Zürich studying how tree populations respond to environmental change across survival, growth, recruitment, fecundity, and species range limits.</p>
-    <p>My work combines plant demography, species distribution thinking, long-term forest data, and comparative life-history theory to understand how forests maintain biodiversity and ecosystem function in a rapidly changing world.</p>
-    <div class="nature-actions">
-      <a class="nature-button primary" href="/publications/">Publications</a>
-      <a class="nature-button" href="/cv/">CV</a>
-      <a class="nature-button" href="https://scholar.google.com/citations?user=TRXRlmsAAAAJ" target="_blank" rel="noreferrer">Google Scholar</a>
-    </div>
-  </div>
-  <figure class="nature-hero-visual">
-    <img src="/images/Research topics.png" alt="Research overview linking forest dynamics, species diversity, range limits, restoration, tree demography, and life-history theory." loading="lazy">
-    <figcaption>Research themes across forest dynamics and global change ecology.</figcaption>
-  </figure>
-</section>
+Xianyu Yang is a postdoctoral researcher at ETH Zürich studying how tree populations respond to environmental change across survival, growth, recruitment, fecundity, and species range limits.
 
-I am especially interested in the hidden stories inside tree data: why some species persist at their range margins, how demographic trade-offs shape coexistence, and when restoration trajectories lead to stable, diverse, and carbon-rich forests.
+His work combines plant demography, species distribution thinking, long-term forest data, and comparative life-history theory to understand how forests maintain biodiversity and ecosystem function in a rapidly changing world.
+
+He is especially interested in the hidden stories inside tree data: why some species persist at their range margins, how demographic trade-offs shape coexistence, and when restoration trajectories lead to stable, diverse, and carbon-rich forests.
 
 Outside research, I am usually outdoors: hiking mountain trails, swimming in alpine lakes, or skiing through winter landscapes.
 
