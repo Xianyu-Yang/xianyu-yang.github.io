@@ -16,11 +16,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Xianyu Yang is a postdoctoral researcher at ETH Zürich studying how tree populations respond to environmental change across survival, growth, recruitment, fecundity, and species range limits.
+I am a postdoctoral researcher at ETH Zürich studying how tree populations respond to environmental change across survival, growth, recruitment, fecundity, and species range limits.
 
-His work combines plant demography, species distribution thinking, long-term forest data, and comparative life-history theory to understand how forests maintain biodiversity and ecosystem function in a rapidly changing world.
+My work combines plant demography, long-term forest monitoring, functional traits, species distribution thinking, and comparative life-history theory to understand how forests maintain biodiversity, carbon storage, and ecosystem function in a rapidly changing world.
 
-He is especially interested in the hidden stories inside tree data: why some species persist at their range margins, how demographic trade-offs shape coexistence, and when restoration trajectories lead to stable, diverse, and carbon-rich forests.
+I am especially interested in the hidden stories inside tree data: why some species persist at their range margins, how demographic trade-offs shape coexistence, how traits and symbioses shape tree life histories, and when forest communities recover, retain carbon, or shift toward new states.
 
 Outside research, I am usually outdoors: hiking mountain trails, swimming in alpine lakes, or skiing through winter landscapes.
 
@@ -28,16 +28,16 @@ Outside research, I am usually outdoors: hiking mountain trails, swimming in alp
 
 <div class="research-focus-grid">
   <section>
-    <h3>Forest Demography</h3>
-    <p>Quantifying how survival, growth, recruitment, and fecundity shape population persistence and recovery.</p>
+    <h3>Forest Demography and Life History</h3>
+    <p>Quantifying how survival, growth, recruitment, longevity, and demographic trade-offs shape population persistence and forest dynamics.</p>
   </section>
   <section>
-    <h3>Range Limits</h3>
-    <p>Studying how demographic performance and environmental gradients constrain where tree species occur.</p>
+    <h3>Traits, Symbioses, and Climate</h3>
+    <p>Linking functional traits, mycorrhizal context, climate sensitivity, and niche breadth to tree growth and longevity.</p>
   </section>
   <section>
-    <h3>Restoration Dynamics</h3>
-    <p>Linking long-term monitoring data to biodiversity recovery, community assembly, and forest carbon storage.</p>
+    <h3>Forest Carbon and Recovery</h3>
+    <p>Testing how community demography, restoration, invasion history, and root fungal pathways influence biomass accumulation and carbon retention.</p>
   </section>
 </div>
 
@@ -47,29 +47,29 @@ Outside research, I am usually outdoors: hiking mountain trails, swimming in alp
   <div class="framework-flow">
     <article>
       <span>01</span>
-      <h3>Climate, disturbance, and restoration</h3>
-      <p>Environmental filters and human impacts set the context for tree population change.</p>
+      <h3>Climate, disturbance, and biotic context</h3>
+      <p>Environmental filters, invasion history, symbioses, and human impacts set the context for plant population change.</p>
     </article>
     <article>
       <span>02</span>
-      <h3>Demographic rates</h3>
-      <p>Survival, growth, recruitment, and fecundity reveal where population bottlenecks emerge.</p>
+      <h3>Demographic rates and carbon pathways</h3>
+      <p>Survival, growth, recruitment, fecundity, and biomass gain-loss components reveal where population and ecosystem bottlenecks emerge.</p>
     </article>
     <article>
       <span>03</span>
       <h3>Life-history strategies</h3>
-      <p>Species differ in how they buffer risk, recover after disturbance, and trade off performance.</p>
+      <p>Species differ in how traits, symbioses, and demographic trade-offs shape growth, longevity, recovery, and climate sensitivity.</p>
     </article>
     <article>
       <span>04</span>
-      <h3>Biodiversity and range limits</h3>
-      <p>Demographic mechanisms scale up to coexistence, marginal persistence, and forest futures.</p>
+      <h3>Biodiversity, carbon, and range limits</h3>
+      <p>Demographic mechanisms scale up to coexistence, marginal persistence, forest carbon dynamics, and future community change.</p>
     </article>
   </div>
 </section>
 
 <p class="research-keywords">
-  Forest dynamics · Species diversity · Species range limits · Ecological restoration · Tree demography · Life-history theory
+  Forest dynamics · Tree demography · Functional traits · Mycorrhizal ecology · Forest carbon · Species range limits · Ecological restoration
 </p>
 
 # News
