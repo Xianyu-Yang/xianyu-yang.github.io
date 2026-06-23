@@ -28,23 +28,23 @@ author_profile: true
 <div class="project-overview-grid">
   <article>
     <p class="project-kicker">Func-traits-Demo</p>
-    <h3>Functional traits and demographic responses to temperature</h3>
-    <p class="project-status">Manuscript under review</p>
-    <p>This project asks whether functional traits can predict how tree growth and longevity respond to temperature. It links trait-based ecology with demographic rates to test when warming favors faster growth, longer persistence, or shifts in life-history strategy.</p>
-    <a href="/publications/">Working paper</a>
+    <h3>Mycorrhizal context and trait-based tree life histories</h3>
+    <p class="project-status">Manuscript in preparation</p>
+    <p>This project tests how mycorrhizal association modifies the links between functional traits, tree growth, and longevity. Using species-level demographic, trait, phylogenetic, and mycorrhizal data, it asks whether similar trait strategies lead to different life-history outcomes under contrasting symbiotic nutrient economies.</p>
+    <a href="/publications/">Current manuscript</a>
   </article>
   <article>
-    <p class="project-kicker">Forest dynamics plots</p>
-    <h3>Demographic strategies across large forest plots</h3>
-    <p class="project-status">Ongoing synthesis</p>
-    <p>Using repeated censuses from multiple large forest dynamics plots, this work compares survival, growth, recruitment, and population performance across species and climates. The goal is to understand which demographic strategies buffer forests against environmental change.</p>
-    <a href="/publications/">Related publications</a>
+    <p class="project-kicker">ForestGEO</p>
+    <h3>Life-history strategies and dominance in large forest plots</h3>
+    <p class="project-status">Framework and pilot analysis</p>
+    <p>This project uses repeated ForestGEO censuses to estimate site-specific realized survival-growth strategies for established trees. The central question is whether forest structural dominance is concentrated in a non-random subset of local demographic strategies, using abundance, basal area, large-tree dominance, and within-site null models.</p>
+    <a href="/publications/">Forest demography work</a>
   </article>
   <article>
-    <p class="project-kicker">Species associations</p>
-    <h3>Tree associations along climate gradients</h3>
+    <p class="project-kicker">Climate sensitivity</p>
+    <h3>Trait-structured tree growth and longevity responses to climate</h3>
     <p class="project-status">Manuscript under review</p>
-    <p>This collaborative project examines how tree species associations vary across climate gradients in the United States. It connects spatial community patterns with climate context to ask when species co-occur, segregate, or shift their association structure.</p>
+    <p>Using millions of multi-census tree records across North American forests, this project estimates how growth and life expectancy vary across temperature, precipitation, and atmospheric aridity gradients. It tests whether life-history baselines, functional traits, thermal niche breadth, and phylogeny predict demographic vulnerability to climate.</p>
     <a href="/publications/">Working paper</a>
   </article>
   <article>
@@ -53,13 +53,6 @@ author_profile: true
     <p class="project-status">Manuscript in development</p>
     <p>The Trillium Trail project links long-term garlic mustard removal, individual-root fungal communities, and demographic vital rates of native forest herbs. Current analyses test whether AMF and pathogen-associated fungal axes help explain growth, flowering, and fecundity.</p>
     <a href="/publications/">Demography and restoration work</a>
-  </article>
-  <article>
-    <p class="project-kicker">Life-history synthesis</p>
-    <h3>Beyond single vital rates</h3>
-    <p class="project-status">Conceptual and comparative work</p>
-    <p>Across these projects, I am interested in how vital rates combine into whole life-history strategies. This includes demographic buffering, growth-survival trade-offs, trait-demography links, and the conditions that allow forests to persist, recover, and maintain diversity.</p>
-    <a href="/about/">Research framework</a>
   </article>
 </div>
 
