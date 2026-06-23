@@ -139,8 +139,8 @@ a {
 
 .nature-hero {
   display: grid;
-  grid-template-columns: minmax(0, 1.08fr) minmax(260px, 0.92fr);
-  gap: 2rem;
+  grid-template-columns: minmax(0, 0.95fr) minmax(360px, 1.05fr);
+  gap: 2.25rem;
   align-items: center;
   margin: 0 0 2.2rem;
   padding: 2.1rem;
@@ -215,6 +215,7 @@ a {
 
 .nature-hero-visual {
   margin: 0;
+  justify-self: stretch;
 }
 
 .nature-hero-visual img {
@@ -224,6 +225,13 @@ a {
   background: #f7fbf7;
   border: 1px solid var(--nature-line);
   box-shadow: 0 16px 36px rgba(23, 35, 29, 0.1);
+}
+
+@media (min-width: 1100px) {
+  .nature-hero-visual {
+    transform: scale(1.08);
+    transform-origin: center right;
+  }
 }
 
 .nature-hero-visual figcaption {
