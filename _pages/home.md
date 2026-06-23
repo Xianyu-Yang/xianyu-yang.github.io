@@ -32,14 +32,14 @@ author_profile: true
 
 <div class="project-overview-grid">
   <article>
-    <p class="project-kicker">Func-traits-Demo</p>
-    <h3>Mycorrhizal context and trait-based tree life histories</h3>
-    <p>This project tests how mycorrhizal association modifies the links between functional traits, tree growth, and longevity. Using species-level demographic, trait, phylogenetic, and mycorrhizal data, it asks whether similar trait strategies lead to different life-history outcomes under contrasting symbiotic nutrient economies.</p>
-  </article>
-  <article>
     <p class="project-kicker">ForestGEO</p>
     <h3>Life-history strategies and dominance in large forest plots</h3>
     <p>This project uses repeated ForestGEO censuses to estimate site-specific realized survival-growth strategies for established trees. The central question is whether forest structural dominance is concentrated in a non-random subset of local demographic strategies, using abundance, basal area, large-tree dominance, and within-site null models.</p>
+  </article>
+  <article>
+    <p class="project-kicker">Climate sensitivity</p>
+    <h3>Trait-structured tree growth and longevity responses to climate</h3>
+    <p>Using millions of multi-census tree records across North American forests, this project estimates how growth and life expectancy vary across temperature, precipitation, and atmospheric aridity gradients. It tests whether life-history baselines, functional traits, thermal niche breadth, and phylogeny predict demographic vulnerability to climate.</p>
   </article>
   <article>
     <p class="project-kicker">Forest carbon</p>
@@ -47,9 +47,9 @@ author_profile: true
     <p>This project tests whether baseline community demography predicts plot-level aboveground biomass accumulation, woody gain, mortality loss, and carbon-retention pathways. Using North American forest inventory intervals, it asks whether demographic strategy adds predictive value beyond climate, stand structure, diversity, dominance, and competition controls.</p>
   </article>
   <article>
-    <p class="project-kicker">Climate sensitivity</p>
-    <h3>Trait-structured tree growth and longevity responses to climate</h3>
-    <p>Using millions of multi-census tree records across North American forests, this project estimates how growth and life expectancy vary across temperature, precipitation, and atmospheric aridity gradients. It tests whether life-history baselines, functional traits, thermal niche breadth, and phylogeny predict demographic vulnerability to climate.</p>
+    <p class="project-kicker">Func-traits-Demo</p>
+    <h3>Mycorrhizal context and trait-based tree life histories</h3>
+    <p>This project tests how mycorrhizal association modifies the links between functional traits, tree growth, and longevity. Using species-level demographic, trait, phylogenetic, and mycorrhizal data, it asks whether similar trait strategies lead to different life-history outcomes under contrasting symbiotic nutrient economies.</p>
   </article>
   <article>
     <p class="project-kicker">TT Project</p>
