@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+<p class="publication-note">My publications focus on plant demography, forest dynamics, species range limits, ecological restoration, and biodiversity responses to environmental change. Representative papers are listed below, with links to journal pages when available.</p>
+
 # Working Papers
 - **Yang, X.**\*, ..., Bialic-Murphy L. Functional traits predict tree growth and longevity responses to temperature. (under review in _Nature Ecology & Evolution_)
 

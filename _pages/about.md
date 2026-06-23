@@ -16,7 +16,24 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-Hi! I am a postdoctoral researcher at ETH Zürich studying how tree populations persist, recover, and shift under environmental change. My work combines plant demography, species distribution thinking, long-term forest data, and comparative life-history theory to understand how forests maintain biodiversity and ecosystem function in a rapidly changing world.
+
+<section class="nature-hero">
+  <div>
+    <p class="nature-eyebrow">Plant demography · Forest dynamics · Global change ecology</p>
+    <h1>How do forests persist, recover, and shift?</h1>
+    <p class="lead">I am a postdoctoral researcher at ETH Zürich studying how tree populations respond to environmental change across survival, growth, recruitment, fecundity, and species range limits.</p>
+    <p>My work combines plant demography, species distribution thinking, long-term forest data, and comparative life-history theory to understand how forests maintain biodiversity and ecosystem function in a rapidly changing world.</p>
+    <div class="nature-actions">
+      <a class="nature-button primary" href="/publications/">Publications</a>
+      <a class="nature-button" href="/cv/">CV</a>
+      <a class="nature-button" href="https://scholar.google.com/citations?user=TRXRlmsAAAAJ" target="_blank" rel="noreferrer">Google Scholar</a>
+    </div>
+  </div>
+  <figure class="nature-hero-visual">
+    <img src="/images/Research topics.png" alt="Research overview linking forest dynamics, species diversity, range limits, restoration, tree demography, and life-history theory." loading="lazy">
+    <figcaption>Research themes across forest dynamics and global change ecology.</figcaption>
+  </figure>
+</section>
 
 I am especially interested in the hidden stories inside tree data: why some species persist at their range margins, how demographic trade-offs shape coexistence, and when restoration trajectories lead to stable, diverse, and carbon-rich forests.
 
@@ -43,49 +60,10 @@ Outside research, I am usually outdoors: hiking mountain trails, swimming in alp
   Forest dynamics · Species diversity · Species range limits · Ecological restoration · Tree demography · Life-history theory
 </p>
 
-<figure style="text-align: center;">
-  <img src="/images/Research topics.png" alt="Overview of Xianyu Yang's research topics in forest dynamics, species diversity, range limits, restoration, tree demography, and life-history theory." style="width: 70%;" loading="lazy">
-</figure>
-
 # News
 
-- **2026-07** I will attend the 2026 Ecological Society of America Annual Meeting in Salt Lake City, USA.
-- **2026-03** Our paper on transient dynamics during tree recovery after logging was accepted by _Journal of Plant Ecology_.
-- **2025-08** I was selected to join the Junior Editorial Board of _Journal of Plant Ecology_ and _Forestry Research_.
-
-<style>
-.research-focus-grid {
-  display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 14px;
-  margin: 1.2rem 0 1rem;
-}
-
-.research-focus-grid section {
-  border: 1px solid #e2e8f0;
-  border-radius: 8px;
-  padding: 16px;
-  background: #fbfbfb;
-}
-
-.research-focus-grid h3 {
-  margin-top: 0;
-  margin-bottom: 0.4rem;
-  font-size: 1rem;
-}
-
-.research-focus-grid p {
-  margin-bottom: 0;
-  font-size: 0.92rem;
-}
-
-.research-keywords {
-  font-weight: 600;
-}
-
-@media (max-width: 800px) {
-  .research-focus-grid {
-    grid-template-columns: 1fr;
-  }
-}
-</style>
+<ul class="news-list">
+  <li><strong>2026-07</strong> I will attend the 2026 Ecological Society of America Annual Meeting in Salt Lake City, USA.</li>
+  <li><strong>2026-03</strong> Our paper on transient dynamics during tree recovery after logging was accepted by _Journal of Plant Ecology_.</li>
+  <li><strong>2025-08</strong> I was selected to join the Junior Editorial Board of _Journal of Plant Ecology_ and _Forestry Research_.</li>
+</ul>
