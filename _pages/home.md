@@ -23,6 +23,11 @@ author_profile: true
   </figure>
 </section>
 
+<section class="opportunity-callout" aria-label="Open to opportunities">
+  <p class="nature-eyebrow">Open to opportunities</p>
+  <p>Starting January 1, 2027, I am seeking faculty or postdoctoral opportunities related to forest ecology, plant demography, global change biology, forest carbon, or biodiversity science. Please feel free to contact me if there may be a relevant position or collaboration.</p>
+</section>
+
 # Current Projects
 
 <div class="project-overview-grid">

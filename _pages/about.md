@@ -22,6 +22,11 @@ My work combines plant demography, long-term forest monitoring, functional trait
 
 I am especially interested in the hidden stories inside tree data: why some species persist at their range margins, how demographic trade-offs shape coexistence, how traits and symbioses shape tree life histories, and when forest communities recover, retain carbon, or shift toward new states.
 
+<section class="opportunity-callout compact" aria-label="Open to opportunities">
+  <p class="nature-eyebrow">Open to opportunities</p>
+  <p>Starting January 1, 2027, I am seeking faculty or postdoctoral opportunities related to forest ecology, plant demography, global change biology, forest carbon, or biodiversity science. Relevant leads and conversations are very welcome.</p>
+</section>
+
 Outside research, I am usually outdoors: hiking mountain trails, swimming in alpine lakes, or skiing through winter landscapes.
 
 # Research Focus

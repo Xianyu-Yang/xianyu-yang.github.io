@@ -288,6 +288,27 @@ a {
   font-weight: 700;
 }
 
+.opportunity-callout {
+  margin: 1.35rem 0 1.8rem;
+  border: 1px solid rgba(180, 93, 56, 0.28);
+  border-left: 4px solid var(--nature-clay);
+  border-radius: 0 14px 14px 0;
+  padding: 1rem 1.15rem;
+  background:
+    linear-gradient(135deg, rgba(255, 255, 255, 0.95), rgba(255, 247, 239, 0.74)),
+    #fff;
+  box-shadow: 0 12px 28px rgba(23, 35, 29, 0.06);
+}
+
+.opportunity-callout.compact {
+  margin-top: 1.15rem;
+}
+
+.opportunity-callout p:last-child {
+  margin-bottom: 0;
+  color: #3b4a42;
+}
+
 .project-overview-grid {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
