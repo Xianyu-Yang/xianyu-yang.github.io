@@ -32,26 +32,21 @@ author_profile: true
 
 <div class="project-overview-grid">
   <article>
-    <p class="project-kicker">ForestGEO</p>
-    <h3>Life-history strategies and dominance in large forest plots</h3>
-    <p>This project uses repeated ForestGEO censuses to estimate site-specific realized survival-growth strategies for established trees. The central question is whether forest structural dominance is concentrated in a non-random subset of local demographic strategies, using abundance, basal area, large-tree dominance, and within-site null models.</p>
-  </article>
-  <article>
     <p class="project-kicker">Climate sensitivity</p>
     <h3>Trait-structured tree growth and longevity responses to climate</h3>
     <p>Using millions of multi-census tree records across North American forests, this project estimates how growth and life expectancy vary across temperature, precipitation, and atmospheric aridity gradients. It tests whether life-history baselines, functional traits, thermal niche breadth, and phylogeny predict demographic vulnerability to climate.</p>
   </article>
   <article>
-    <p class="project-kicker">Forest carbon</p>
-    <h3>Community demography and biomass gain-loss pathways</h3>
-    <p>This project tests whether baseline community demography predicts plot-level aboveground biomass accumulation, woody gain, mortality loss, and carbon-retention pathways. Using North American forest inventory intervals, it asks whether demographic strategy adds predictive value beyond climate, stand structure, diversity, dominance, and competition controls.</p>
+    <p class="project-kicker">Func-Fungi-Demo</p>
+    <h3>Fungal context and trait-based tree demography</h3>
+    <p>This project tests how fungal association modifies the links between functional traits, tree growth, and longevity. Using species-level demographic, trait, phylogenetic, and fungal data, it asks whether similar trait strategies lead to different life-history outcomes under contrasting symbiotic nutrient economies.</p>
   </article>
 </div>
 
 <section class="home-synthesis">
   <p class="nature-eyebrow">Research logic</p>
-  <h2>From individual trees to forest futures</h2>
-  <p>The common thread is demographic mechanism: measuring the vital rates of trees, identifying where population bottlenecks emerge, and asking how those mechanisms shape coexistence, restoration success, and range shifts under global change.</p>
+  <h2>Demographic mechanisms across climate and symbiosis</h2>
+  <p>The common thread is demographic mechanism: measuring how tree growth and longevity vary across environmental gradients, and asking how traits, climate exposure, and fungal associations shape life-history strategies under global change.</p>
 </section>
 
 # Recent News
