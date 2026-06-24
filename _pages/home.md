@@ -28,7 +28,7 @@ author_profile: true
   <p>Starting January 1, 2027, I am seeking faculty or postdoctoral opportunities related to forest ecology, plant demography, global change biology, forest carbon, or biodiversity science. Please feel free to contact me if there may be a relevant position or collaboration.</p>
 </section>
 
-# Current Projects
+# Selected Current Projects
 
 <div class="project-overview-grid">
   <article>
@@ -45,16 +45,6 @@ author_profile: true
     <p class="project-kicker">Forest carbon</p>
     <h3>Community demography and biomass gain-loss pathways</h3>
     <p>This project tests whether baseline community demography predicts plot-level aboveground biomass accumulation, woody gain, mortality loss, and carbon-retention pathways. Using North American forest inventory intervals, it asks whether demographic strategy adds predictive value beyond climate, stand structure, diversity, dominance, and competition controls.</p>
-  </article>
-  <article>
-    <p class="project-kicker">Func-traits-Demo</p>
-    <h3>Mycorrhizal context and trait-based tree life histories</h3>
-    <p>This project tests how mycorrhizal association modifies the links between functional traits, tree growth, and longevity. Using species-level demographic, trait, phylogenetic, and mycorrhizal data, it asks whether similar trait strategies lead to different life-history outcomes under contrasting symbiotic nutrient economies.</p>
-  </article>
-  <article>
-    <p class="project-kicker">TT Project</p>
-    <h3>Root fungi, invader removal, and forest herb demography</h3>
-    <p>The Trillium Trail project links long-term garlic mustard removal, individual-root fungal communities, and demographic vital rates of native forest herbs. Current analyses test whether AMF and pathogen-associated fungal axes help explain growth, flowering, and fecundity.</p>
   </article>
 </div>
 
