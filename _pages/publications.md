@@ -41,7 +41,7 @@ author_profile: true
 
 -	Haozhi M.\*, Constantin Z., Chi X., **Yang, X.**, Lidong M., Jean-François B., Crowther, T. Tree species associations along climate gradients across the United States. (under review in _Journal of Plant Ecology_)
 
-- Kong, F.,  **Yang, X.**, ..., Chu C.\*. Predominantly negative impacts of environmental fluctuations on tree coexistence in a tropical forest. (in preparation)
+- Kong, F.,  **Yang, X.**, ..., Chu C.\*. Predominantly negative impacts of environmental fluctuations on tree coexistence in a tropical forest. (submitted to _Global Change Biology_)
 
 # Peer-Reviewed Publications
 
