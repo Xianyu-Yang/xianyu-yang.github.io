@@ -35,11 +35,13 @@ author_profile: true
 
 - **Yang, X.**\*, ..., Bialic-Murphy L. Mycorrhizal context modifies trait–life-history relationships in forest trees. (in preparation)
 
-- Pereira, E., **Yang, X.**, ..., Bialic-Murphy L. Beyond the fast-slow continuum: A multidimensional life-history framework for trees. (in preparation)
+- Pereira, E.\*, **Yang, X.**\*, ..., Bialic-Murphy L. Beyond the fast-slow continuum: A multidimensional life-history framework for trees. (in preparation)
+
+- Bialic-Murphy L., ..., **Yang, X.**, ..., Khoury, C.\*, Crowther, T.\* (2026). Non-native tree invasions reduce functional diversity and alter biomass productivity. (submitted to _Nature_)
 
 - Kong, F.,  **Yang, X.**, ..., Chu C.\*. Predominantly negative impacts of environmental fluctuations on tree coexistence in a tropical forest. (submitted to _National Science Review_)
   
-- Bialic-Murphy L.\*, Galen, L.G., Kivlin, S.N., ..., **Yang, X.**, Kalisz, S., Crowther, T. (2025). Fungal diversity-plant productivity relationships in the Anthropocene. (submitted to _Nature_)
+- Bialic-Murphy L.\*, Galen, L.G., Kivlin, S.N., ..., **Yang, X.**, Kalisz, S., Crowther, T. (2025). Fungal diversity-plant productivity relationships in the Anthropocene. (under revision at _Fungal Biology Reviews_)
 
 -	Haozhi M.\*, Constantin Z., Chi X., **Yang, X.**, Lidong M., Jean-François B., Crowther, T. Tree species associations along climate gradients across the United States. (under review in _Journal of Plant Ecology_)
 
