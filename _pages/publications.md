@@ -83,6 +83,9 @@ author_profile: true
 
 - Hu, M., Sardans J,. **Yang, X.**, Peñuelas, J.\*, Tong C,\* (2020). Patterns and environmental drivers of greenhouse gas fluxes in the coastal wetlands of China: A systematic review and synthesis. _Environmental Research_, 186:109576. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0013935120304692){:target="_blank"}
 
+2019
+- Wang, C. Li S. Yang, X. Competitive patterns of pioneer species at different restoration levels in the subtropical red soil erosion and degradation region. (2019). _Chinese Journal of Applied and Environmental Biology_, 25, 239-245. [Link](https://oversea.cnki.net/kcms2/article/abstract?v=nXt_PYYM1Gu2kNqwN_wJNjoAtl5XqOCGU0KkKC6azIm3eq-aOq1G87PC9UCkGgMfA1B9Lk_xzRrtcHgHzmh22HQ_hrDJMh0pUwYRFiBmybsZs07o4cWV8GsdC_7Kk59NNhAZwLvrJXYLAqVKs8uwK9upI6UnKIHMyImiXvVxvnNGPLsgzfgkwQ==&uniplatform=OVERSEA&language=EN){:target="_blank"} 
+
 2018
 - **Yang, X.**, Li, S.\*, Shen, B., Wu, Y., Sun, S., Liu, R., Zha, R., Li, S. (2018). Demographic strategies of a dominant tree species in response to logging in a degraded subtropical forest in Southeast China. _Annals of Forest Science_, 75, 84. [Link](https://link.springer.com/article/10.1007/s13595-018-0764-0){:target="_blank"} 
 
