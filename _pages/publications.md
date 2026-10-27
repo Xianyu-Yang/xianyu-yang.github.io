@@ -45,11 +45,11 @@ author_profile: true
 
 -	Haozhi M.\*, Constantin Z., Chi X., **Yang, X.**, Lidong M., Jean-François B., Crowther, T. Tree species associations along climate gradients across the United States. (under review in _Journal of Plant Ecology_)
 
--	Guo, Q., Luo Y., **Yang, X.**, ... Li, S.\* (2026). Intraspecific individual asynchrony links ecological restoration to population temporal stability in a pioneer tree species. (under revision at _Forest Ecology and Management_)
-
 # Peer-Reviewed Publications
 
 2026
+-	Guo, Q., Luo Y., **Yang, X.**, ... Li, S.\* (2026). Intraspecific individual asynchrony links ecological restoration to population temporal stability in a pioneer tree species. (accepted at _Forest Ecology and Management_)
+
 -	**Yang, X.**\*, Rong, L., Zuidem, P.A., ..., Bialic-Murphy L. (2026). Transient amplification driven by fecundity pulses: Shifting demographic bottlenecks during the decadal recovery of a pioneer tree. _Journal of Plant Ecology_, rtag067. [Link](https://academic.oup.com/jpe/advance-article/doi/10.1093/jpe/rtag067/8586255?utm_source=authortollfreelink&utm_campaign=jpe&utm_medium=email&guestAccessKey=){:target="_blank"}
 
 -	Santos G.\*, **Yang, X.**, Gascoigne S., Compagnoni A., Dias A., Tuljapurkar S., Kajin M., Salguero-Gómez R. (2026). Plant population responses to environmental variability are primarily driven by survival-reproduction trade-offs and mediated by aridity. _Nature Communications_, 17, 6914. [Link](https://www.nature.com/articles/s41467-026-73720-x#citeas){:target="_blank"} 
