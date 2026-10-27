@@ -48,7 +48,7 @@ author_profile: true
 # Peer-Reviewed Publications
 
 2026
--	Guo, Q., Luo Y., **Yang, X.**, ... Li, S.\* (2026). Intraspecific individual asynchrony links ecological restoration to population temporal stability in a pioneer tree species. (accepted at _Forest Ecology and Management_)
+-	Guo, Q., Luo Y., **Yang, X.**, ... Li, S.\* (2026). Intraspecific individual asynchrony links ecological restoration to population temporal stability in a pioneer tree species. (accepted by _Forest Ecology and Management_)
 
 -	**Yang, X.**\*, Rong, L., Zuidem, P.A., ..., Bialic-Murphy L. (2026). Transient amplification driven by fecundity pulses: Shifting demographic bottlenecks during the decadal recovery of a pioneer tree. _Journal of Plant Ecology_, rtag067. [Link](https://academic.oup.com/jpe/advance-article/doi/10.1093/jpe/rtag067/8586255?utm_source=authortollfreelink&utm_campaign=jpe&utm_medium=email&guestAccessKey=){:target="_blank"}
 
