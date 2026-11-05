@@ -37,7 +37,7 @@ author_profile: true
 
 - Pereira, E.\*, **Yang, X.**\*, ..., Bialic-Murphy L. Beyond the fast-slow continuum: A multidimensional life-history framework for trees. (in preparation)
 
-- Bialic-Murphy L., ..., **Yang, X.**, ..., Khoury, C.\*, Crowther, T.\* (2026). Non-native tree invasions reduce functional diversity and alter biomass productivity. (submitted to _Nature_)
+- Bialic-Murphy L., ..., **Yang, X.**, ..., Khoury, C.\*, Crowther, T.\* (2026). Non-native tree invasions reduce functional diversity and alter biomass productivity. (submitted to _Nature Communications_)
 
 - Kong, F.,  **Yang, X.**, ..., Chu C.\*. Predominantly negative impacts of environmental fluctuations on tree coexistence in a tropical forest. (submitted to _National Science Review_)
   
